@@ -39,7 +39,7 @@ do
 		atopt="des"
 	elif [[ "$line1" == *"ho_mask"* ]]; then
 		atopt="hox"
-	elif [["$line1" == *"aal_mask"* ]]; then
+	elif [[ "$line1" == *"aal_mask"* ]]; then
 		atopt="aal"
 	fi
 
