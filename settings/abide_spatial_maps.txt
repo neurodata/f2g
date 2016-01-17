@@ -1,0 +1,1 @@
+/home/ubuntu/Documents/f2g_ami/spatial_maps/PNAS_Smith09/rsn10.nii.gz
