@@ -5,7 +5,7 @@ echo "ctxpath=\"/mnt/ssd1/public/Data/\"; export ctxpath" >> .bashrc
 . ~/.bashrc  
 
 1) clone the f2g repo in ~/  
-git clone https://github.com/opoenconnectome/f2g_ami.git  
+git clone https://github.com/openconnectome/f2g_ami.git  
 
 2) run the setup script.  
 . ~/f2g_ami/setup_ami_cpac.sh  
@@ -14,11 +14,11 @@ git clone https://github.com/opoenconnectome/f2g_ami.git
 scp -r eric@cortex.cs.jhu.edu:/mnt/ssd1/public/Data/$dataset/inputs/ /home/ubuntu/Documents/  
 
 3) find the sesssions, and place in appropriate directory."  
-find /home/ubuntu/Documents/inputs/ -maxdepth 2 -name "*session*" -type d >   /home/ubuntu/Documents/f2g_ami/CPAC_sublists/dataset_sublists.txt  
+find /home/ubuntu/Documents/inputs/ -maxdepth 2 -name "*session*" -type d >   /home/ubuntu/f2g_ami/CPAC_sublists/dataset_sublists.txt  
   
 4) make the subject lists for cpac.  
 -step btwn-  
-cd /home/ubuntu/Documents/f2g_ami/CPAC_sublists  
+cd /home/ubuntu/f2g_ami/CPAC_sublists  
   
 ./make_sublist.sh dataset_sublists.txt  
   
