@@ -1,4 +1,4 @@
-/home/ubuntu/Documents/f2g_ami/atlases/aal_mask_pad.nii.gz
-/home/ubuntu/Documents/f2g_ami/atlases/CC200.nii.gz
-/home/ubuntu/Documents/f2g_ami/atlases/ho_mask_pad.nii.gz
-/home/ubuntu/Documents/f2g_ami/atlases/MNI152_T1_3mm_desikan_adjusted.nii.gz
+/home/ubuntu/f2g_ami/atlases/aal_mask_pad.nii.gz
+/home/ubuntu/f2g_ami/atlases/CC200.nii.gz
+/home/ubuntu/f2g_ami/atlases/ho_mask_pad.nii.gz
+/home/ubuntu/f2g_ami/atlases/MNI152_T1_3mm_desikan_adjusted.nii.gz
