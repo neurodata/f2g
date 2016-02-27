@@ -30,7 +30,7 @@ numCoresPerSubject :  10
 
 # This number depends on computing resources.
 # IMPORTANT: 'Number of Cores Per Subject' multiplied by 'Number of Subjects to Run Simultaneously' multiplied by 'Number of Cores for Anatomical Registration (ANTS only)' must not be greater than the total number of cores.
-numSubjectsAtOnce :  3
+numSubjectsAtOnce :  2
 
 
 # This number depends on computing resources.
