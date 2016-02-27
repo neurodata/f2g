@@ -1,0 +1,2238 @@
+-
+    subject_id: '110411'
+    unique_id: 'rest1RL'
+    anat: '/home/ubuntu/Documents/inputs/1_100/110411/anat/110411_3T_T1w_MPR1.nii.gz'
+    rest:
+        rest_1_rest: '/home/ubuntu/Documents/inputs/1_100/110411/rest/110411_3T_rfMRI_REST1_RL.nii.gz'
+-
+    subject_id: '110411'
+    unique_id: 'rest1LR'
+    anat: '/home/ubuntu/Documents/inputs/1_100/110411/anat/110411_3T_T1w_MPR1.nii.gz'
+    rest:
+        rest_1_rest: '/home/ubuntu/Documents/inputs/1_100/110411/rest/110411_3T_rfMRI_REST1_LR.nii.gz'
+-
+    subject_id: '110411'
+    unique_id: 'rest2RL'
+    anat: '/home/ubuntu/Documents/inputs/1_100/110411/anat/110411_3T_T1w_MPR1.nii.gz'
+    rest:
+        rest_1_rest: '/home/ubuntu/Documents/inputs/1_100/110411/rest/110411_3T_rfMRI_REST2_RL.nii.gz'
+-
+    subject_id: '110411'
+    unique_id: 'rest2LR'
+    anat: '/home/ubuntu/Documents/inputs/1_100/110411/anat/110411_3T_T1w_MPR1.nii.gz'
+    rest:
+        rest_1_rest: '/home/ubuntu/Documents/inputs/1_100/110411/rest/110411_3T_rfMRI_REST2_LR.nii.gz'
+-
+    subject_id: '111413'
+    unique_id: 'rest1RL'
+    anat: '/home/ubuntu/Documents/inputs/1_100/111413/anat/111413_3T_T1w_MPR1.nii.gz'
+    rest:
+        rest_1_rest: '/home/ubuntu/Documents/inputs/1_100/111413/rest/111413_3T_rfMRI_REST1_RL.nii.gz'
+-
+    subject_id: '111413'
+    unique_id: 'rest1LR'
+    anat: '/home/ubuntu/Documents/inputs/1_100/111413/anat/111413_3T_T1w_MPR1.nii.gz'
+    rest:
+        rest_1_rest: '/home/ubuntu/Documents/inputs/1_100/111413/rest/111413_3T_rfMRI_REST1_LR.nii.gz'
+-
+    subject_id: '111413'
+    unique_id: 'rest2RL'
+    anat: '/home/ubuntu/Documents/inputs/1_100/111413/anat/111413_3T_T1w_MPR1.nii.gz'
+    rest:
+        rest_1_rest: '/home/ubuntu/Documents/inputs/1_100/111413/rest/111413_3T_rfMRI_REST2_RL.nii.gz'
+-
+    subject_id: '111413'
+    unique_id: 'rest2LR'
+    anat: '/home/ubuntu/Documents/inputs/1_100/111413/anat/111413_3T_T1w_MPR1.nii.gz'
+    rest:
+        rest_1_rest: '/home/ubuntu/Documents/inputs/1_100/111413/rest/111413_3T_rfMRI_REST2_LR.nii.gz'
+-
+    subject_id: '108323'
+    unique_id: 'rest1RL'
+    anat: '/home/ubuntu/Documents/inputs/1_100/108323/anat/108323_3T_T1w_MPR1.nii.gz'
+    rest:
+        rest_1_rest: '/home/ubuntu/Documents/inputs/1_100/108323/rest/108323_3T_rfMRI_REST1_RL.nii.gz'
+-
+    subject_id: '108323'
+    unique_id: 'rest1LR'
+    anat: '/home/ubuntu/Documents/inputs/1_100/108323/anat/108323_3T_T1w_MPR1.nii.gz'
+    rest:
+        rest_1_rest: '/home/ubuntu/Documents/inputs/1_100/108323/rest/108323_3T_rfMRI_REST1_LR.nii.gz'
+-
+    subject_id: '108323'
+    unique_id: 'rest2RL'
+    anat: '/home/ubuntu/Documents/inputs/1_100/108323/anat/108323_3T_T1w_MPR1.nii.gz'
+    rest:
+        rest_1_rest: '/home/ubuntu/Documents/inputs/1_100/108323/rest/108323_3T_rfMRI_REST2_RL.nii.gz'
+-
+    subject_id: '108323'
+    unique_id: 'rest2LR'
+    anat: '/home/ubuntu/Documents/inputs/1_100/108323/anat/108323_3T_T1w_MPR1.nii.gz'
+    rest:
+        rest_1_rest: '/home/ubuntu/Documents/inputs/1_100/108323/rest/108323_3T_rfMRI_REST2_LR.nii.gz'
+-
+    subject_id: '117324'
+    unique_id: 'rest1RL'
+    anat: '/home/ubuntu/Documents/inputs/1_100/117324/anat/117324_3T_T1w_MPR1.nii.gz'
+    rest:
+        rest_1_rest: '/home/ubuntu/Documents/inputs/1_100/117324/rest/117324_3T_rfMRI_REST1_RL.nii.gz'
+-
+    subject_id: '117324'
+    unique_id: 'rest1LR'
+    anat: '/home/ubuntu/Documents/inputs/1_100/117324/anat/117324_3T_T1w_MPR1.nii.gz'
+    rest:
+        rest_1_rest: '/home/ubuntu/Documents/inputs/1_100/117324/rest/117324_3T_rfMRI_REST1_LR.nii.gz'
+-
+    subject_id: '117324'
+    unique_id: 'rest2RL'
+    anat: '/home/ubuntu/Documents/inputs/1_100/117324/anat/117324_3T_T1w_MPR1.nii.gz'
+    rest:
+        rest_1_rest: '/home/ubuntu/Documents/inputs/1_100/117324/rest/117324_3T_rfMRI_REST2_RL.nii.gz'
+-
+    subject_id: '117324'
+    unique_id: 'rest2LR'
+    anat: '/home/ubuntu/Documents/inputs/1_100/117324/anat/117324_3T_T1w_MPR1.nii.gz'
+    rest:
+        rest_1_rest: '/home/ubuntu/Documents/inputs/1_100/117324/rest/117324_3T_rfMRI_REST2_LR.nii.gz'
+-
+    subject_id: '126628'
+    unique_id: 'rest1RL'
+    anat: '/home/ubuntu/Documents/inputs/1_100/126628/anat/126628_3T_T1w_MPR1.nii.gz'
+    rest:
+        rest_1_rest: '/home/ubuntu/Documents/inputs/1_100/126628/rest/126628_3T_rfMRI_REST1_RL.nii.gz'
+-
+    subject_id: '126628'
+    unique_id: 'rest1LR'
+    anat: '/home/ubuntu/Documents/inputs/1_100/126628/anat/126628_3T_T1w_MPR1.nii.gz'
+    rest:
+        rest_1_rest: '/home/ubuntu/Documents/inputs/1_100/126628/rest/126628_3T_rfMRI_REST1_LR.nii.gz'
+-
+    subject_id: '126628'
+    unique_id: 'rest2RL'
+    anat: '/home/ubuntu/Documents/inputs/1_100/126628/anat/126628_3T_T1w_MPR1.nii.gz'
+    rest:
+        rest_1_rest: '/home/ubuntu/Documents/inputs/1_100/126628/rest/126628_3T_rfMRI_REST2_RL.nii.gz'
+-
+    subject_id: '126628'
+    unique_id: 'rest2LR'
+    anat: '/home/ubuntu/Documents/inputs/1_100/126628/anat/126628_3T_T1w_MPR1.nii.gz'
+    rest:
+        rest_1_rest: '/home/ubuntu/Documents/inputs/1_100/126628/rest/126628_3T_rfMRI_REST2_LR.nii.gz'
+-
+    subject_id: '114924'
+    unique_id: 'rest1RL'
+    anat: '/home/ubuntu/Documents/inputs/1_100/114924/anat/114924_3T_T1w_MPR1.nii.gz'
+    rest:
+        rest_1_rest: '/home/ubuntu/Documents/inputs/1_100/114924/rest/114924_3T_rfMRI_REST1_RL.nii.gz'
+-
+    subject_id: '114924'
+    unique_id: 'rest1LR'
+    anat: '/home/ubuntu/Documents/inputs/1_100/114924/anat/114924_3T_T1w_MPR1.nii.gz'
+    rest:
+        rest_1_rest: '/home/ubuntu/Documents/inputs/1_100/114924/rest/114924_3T_rfMRI_REST1_LR.nii.gz'
+-
+    subject_id: '114924'
+    unique_id: 'rest2RL'
+    anat: '/home/ubuntu/Documents/inputs/1_100/114924/anat/114924_3T_T1w_MPR1.nii.gz'
+    rest:
+        rest_1_rest: '/home/ubuntu/Documents/inputs/1_100/114924/rest/114924_3T_rfMRI_REST2_RL.nii.gz'
+-
+    subject_id: '114924'
+    unique_id: 'rest2LR'
+    anat: '/home/ubuntu/Documents/inputs/1_100/114924/anat/114924_3T_T1w_MPR1.nii.gz'
+    rest:
+        rest_1_rest: '/home/ubuntu/Documents/inputs/1_100/114924/rest/114924_3T_rfMRI_REST2_LR.nii.gz'
+-
+    subject_id: '115320'
+    unique_id: 'rest1RL'
+    anat: '/home/ubuntu/Documents/inputs/1_100/115320/anat/115320_3T_T1w_MPR1.nii.gz'
+    rest:
+        rest_1_rest: '/home/ubuntu/Documents/inputs/1_100/115320/rest/115320_3T_rfMRI_REST1_RL.nii.gz'
+-
+    subject_id: '115320'
+    unique_id: 'rest1LR'
+    anat: '/home/ubuntu/Documents/inputs/1_100/115320/anat/115320_3T_T1w_MPR1.nii.gz'
+    rest:
+        rest_1_rest: '/home/ubuntu/Documents/inputs/1_100/115320/rest/115320_3T_rfMRI_REST1_LR.nii.gz'
+-
+    subject_id: '115320'
+    unique_id: 'rest2RL'
+    anat: '/home/ubuntu/Documents/inputs/1_100/115320/anat/115320_3T_T1w_MPR1.nii.gz'
+    rest:
+        rest_1_rest: '/home/ubuntu/Documents/inputs/1_100/115320/rest/115320_3T_rfMRI_REST2_RL.nii.gz'
+-
+    subject_id: '115320'
+    unique_id: 'rest2LR'
+    anat: '/home/ubuntu/Documents/inputs/1_100/115320/anat/115320_3T_T1w_MPR1.nii.gz'
+    rest:
+        rest_1_rest: '/home/ubuntu/Documents/inputs/1_100/115320/rest/115320_3T_rfMRI_REST2_LR.nii.gz'
+-
+    subject_id: '120111'
+    unique_id: 'rest1RL'
+    anat: '/home/ubuntu/Documents/inputs/1_100/120111/anat/120111_3T_T1w_MPR1.nii.gz'
+    rest:
+        rest_1_rest: '/home/ubuntu/Documents/inputs/1_100/120111/rest/120111_3T_rfMRI_REST1_RL.nii.gz'
+-
+    subject_id: '120111'
+    unique_id: 'rest1LR'
+    anat: '/home/ubuntu/Documents/inputs/1_100/120111/anat/120111_3T_T1w_MPR1.nii.gz'
+    rest:
+        rest_1_rest: '/home/ubuntu/Documents/inputs/1_100/120111/rest/120111_3T_rfMRI_REST1_LR.nii.gz'
+-
+    subject_id: '120111'
+    unique_id: 'rest2RL'
+    anat: '/home/ubuntu/Documents/inputs/1_100/120111/anat/120111_3T_T1w_MPR1.nii.gz'
+    rest:
+        rest_1_rest: '/home/ubuntu/Documents/inputs/1_100/120111/rest/120111_3T_rfMRI_REST2_RL.nii.gz'
+-
+    subject_id: '120111'
+    unique_id: 'rest2LR'
+    anat: '/home/ubuntu/Documents/inputs/1_100/120111/anat/120111_3T_T1w_MPR1.nii.gz'
+    rest:
+        rest_1_rest: '/home/ubuntu/Documents/inputs/1_100/120111/rest/120111_3T_rfMRI_REST2_LR.nii.gz'
+-
+    subject_id: '112819'
+    unique_id: 'rest1RL'
+    anat: '/home/ubuntu/Documents/inputs/1_100/112819/anat/112819_3T_T1w_MPR1.nii.gz'
+    rest:
+        rest_1_rest: '/home/ubuntu/Documents/inputs/1_100/112819/rest/112819_3T_rfMRI_REST1_RL.nii.gz'
+-
+    subject_id: '112819'
+    unique_id: 'rest1LR'
+    anat: '/home/ubuntu/Documents/inputs/1_100/112819/anat/112819_3T_T1w_MPR1.nii.gz'
+    rest:
+        rest_1_rest: '/home/ubuntu/Documents/inputs/1_100/112819/rest/112819_3T_rfMRI_REST1_LR.nii.gz'
+-
+    subject_id: '101006'
+    unique_id: 'rest1RL'
+    anat: '/home/ubuntu/Documents/inputs/1_100/101006/anat/101006_3T_T1w_MPR1.nii.gz'
+    rest:
+        rest_1_rest: '/home/ubuntu/Documents/inputs/1_100/101006/rest/101006_3T_rfMRI_REST1_RL.nii.gz'
+-
+    subject_id: '101006'
+    unique_id: 'rest1LR'
+    anat: '/home/ubuntu/Documents/inputs/1_100/101006/anat/101006_3T_T1w_MPR1.nii.gz'
+    rest:
+        rest_1_rest: '/home/ubuntu/Documents/inputs/1_100/101006/rest/101006_3T_rfMRI_REST1_LR.nii.gz'
+-
+    subject_id: '101006'
+    unique_id: 'rest2RL'
+    anat: '/home/ubuntu/Documents/inputs/1_100/101006/anat/101006_3T_T1w_MPR1.nii.gz'
+    rest:
+        rest_1_rest: '/home/ubuntu/Documents/inputs/1_100/101006/rest/101006_3T_rfMRI_REST2_RL.nii.gz'
+-
+    subject_id: '101006'
+    unique_id: 'rest2LR'
+    anat: '/home/ubuntu/Documents/inputs/1_100/101006/anat/101006_3T_T1w_MPR1.nii.gz'
+    rest:
+        rest_1_rest: '/home/ubuntu/Documents/inputs/1_100/101006/rest/101006_3T_rfMRI_REST2_LR.nii.gz'
+-
+    subject_id: '109123'
+    unique_id: 'rest1RL'
+    anat: '/home/ubuntu/Documents/inputs/1_100/109123/anat/109123_3T_T1w_MPR1.nii.gz'
+    rest:
+        rest_1_rest: '/home/ubuntu/Documents/inputs/1_100/109123/rest/109123_3T_rfMRI_REST1_RL.nii.gz'
+-
+    subject_id: '109123'
+    unique_id: 'rest1LR'
+    anat: '/home/ubuntu/Documents/inputs/1_100/109123/anat/109123_3T_T1w_MPR1.nii.gz'
+    rest:
+        rest_1_rest: '/home/ubuntu/Documents/inputs/1_100/109123/rest/109123_3T_rfMRI_REST1_LR.nii.gz'
+-
+    subject_id: '109123'
+    unique_id: 'rest2RL'
+    anat: '/home/ubuntu/Documents/inputs/1_100/109123/anat/109123_3T_T1w_MPR1.nii.gz'
+    rest:
+        rest_1_rest: '/home/ubuntu/Documents/inputs/1_100/109123/rest/109123_3T_rfMRI_REST2_RL.nii.gz'
+-
+    subject_id: '109123'
+    unique_id: 'rest2LR'
+    anat: '/home/ubuntu/Documents/inputs/1_100/109123/anat/109123_3T_T1w_MPR1.nii.gz'
+    rest:
+        rest_1_rest: '/home/ubuntu/Documents/inputs/1_100/109123/rest/109123_3T_rfMRI_REST2_LR.nii.gz'
+-
+    subject_id: '101410'
+    unique_id: 'rest1RL'
+    anat: '/home/ubuntu/Documents/inputs/1_100/101410/anat/101410_3T_T1w_MPR1.nii.gz'
+    rest:
+        rest_1_rest: '/home/ubuntu/Documents/inputs/1_100/101410/rest/101410_3T_rfMRI_REST1_RL.nii.gz'
+-
+    subject_id: '101410'
+    unique_id: 'rest1LR'
+    anat: '/home/ubuntu/Documents/inputs/1_100/101410/anat/101410_3T_T1w_MPR1.nii.gz'
+    rest:
+        rest_1_rest: '/home/ubuntu/Documents/inputs/1_100/101410/rest/101410_3T_rfMRI_REST1_LR.nii.gz'
+-
+    subject_id: '129533'
+    unique_id: 'rest1RL'
+    anat: '/home/ubuntu/Documents/inputs/1_100/129533/anat/129533_3T_T1w_MPR1.nii.gz'
+    rest:
+        rest_1_rest: '/home/ubuntu/Documents/inputs/1_100/129533/rest/129533_3T_rfMRI_REST1_RL.nii.gz'
+-
+    subject_id: '129533'
+    unique_id: 'rest1LR'
+    anat: '/home/ubuntu/Documents/inputs/1_100/129533/anat/129533_3T_T1w_MPR1.nii.gz'
+    rest:
+        rest_1_rest: '/home/ubuntu/Documents/inputs/1_100/129533/rest/129533_3T_rfMRI_REST1_LR.nii.gz'
+-
+    subject_id: '132118'
+    unique_id: 'rest1RL'
+    anat: '/home/ubuntu/Documents/inputs/1_100/132118/anat/132118_3T_T1w_MPR1.nii.gz'
+    rest:
+        rest_1_rest: '/home/ubuntu/Documents/inputs/1_100/132118/rest/132118_3T_rfMRI_REST1_RL.nii.gz'
+-
+    subject_id: '132118'
+    unique_id: 'rest1LR'
+    anat: '/home/ubuntu/Documents/inputs/1_100/132118/anat/132118_3T_T1w_MPR1.nii.gz'
+    rest:
+        rest_1_rest: '/home/ubuntu/Documents/inputs/1_100/132118/rest/132118_3T_rfMRI_REST1_LR.nii.gz'
+-
+    subject_id: '132118'
+    unique_id: 'rest2RL'
+    anat: '/home/ubuntu/Documents/inputs/1_100/132118/anat/132118_3T_T1w_MPR1.nii.gz'
+    rest:
+        rest_1_rest: '/home/ubuntu/Documents/inputs/1_100/132118/rest/132118_3T_rfMRI_REST2_RL.nii.gz'
+-
+    subject_id: '132118'
+    unique_id: 'rest2LR'
+    anat: '/home/ubuntu/Documents/inputs/1_100/132118/anat/132118_3T_T1w_MPR1.nii.gz'
+    rest:
+        rest_1_rest: '/home/ubuntu/Documents/inputs/1_100/132118/rest/132118_3T_rfMRI_REST2_LR.nii.gz'
+-
+    subject_id: '102311'
+    unique_id: 'rest1RL'
+    anat: '/home/ubuntu/Documents/inputs/1_100/102311/anat/102311_3T_T1w_MPR1.nii.gz'
+    rest:
+        rest_1_rest: '/home/ubuntu/Documents/inputs/1_100/102311/rest/102311_3T_rfMRI_REST1_RL.nii.gz'
+-
+    subject_id: '102311'
+    unique_id: 'rest1LR'
+    anat: '/home/ubuntu/Documents/inputs/1_100/102311/anat/102311_3T_T1w_MPR1.nii.gz'
+    rest:
+        rest_1_rest: '/home/ubuntu/Documents/inputs/1_100/102311/rest/102311_3T_rfMRI_REST1_LR.nii.gz'
+-
+    subject_id: '102311'
+    unique_id: 'rest2RL'
+    anat: '/home/ubuntu/Documents/inputs/1_100/102311/anat/102311_3T_T1w_MPR1.nii.gz'
+    rest:
+        rest_1_rest: '/home/ubuntu/Documents/inputs/1_100/102311/rest/102311_3T_rfMRI_REST2_RL.nii.gz'
+-
+    subject_id: '102311'
+    unique_id: 'rest2LR'
+    anat: '/home/ubuntu/Documents/inputs/1_100/102311/anat/102311_3T_T1w_MPR1.nii.gz'
+    rest:
+        rest_1_rest: '/home/ubuntu/Documents/inputs/1_100/102311/rest/102311_3T_rfMRI_REST2_LR.nii.gz'
+-
+    subject_id: '106016'
+    unique_id: 'rest1RL'
+    anat: '/home/ubuntu/Documents/inputs/1_100/106016/anat/106016_3T_T1w_MPR1.nii.gz'
+    rest:
+        rest_1_rest: '/home/ubuntu/Documents/inputs/1_100/106016/rest/106016_3T_rfMRI_REST1_RL.nii.gz'
+-
+    subject_id: '106016'
+    unique_id: 'rest1LR'
+    anat: '/home/ubuntu/Documents/inputs/1_100/106016/anat/106016_3T_T1w_MPR1.nii.gz'
+    rest:
+        rest_1_rest: '/home/ubuntu/Documents/inputs/1_100/106016/rest/106016_3T_rfMRI_REST1_LR.nii.gz'
+-
+    subject_id: '106016'
+    unique_id: 'rest2RL'
+    anat: '/home/ubuntu/Documents/inputs/1_100/106016/anat/106016_3T_T1w_MPR1.nii.gz'
+    rest:
+        rest_1_rest: '/home/ubuntu/Documents/inputs/1_100/106016/rest/106016_3T_rfMRI_REST2_RL.nii.gz'
+-
+    subject_id: '106016'
+    unique_id: 'rest2LR'
+    anat: '/home/ubuntu/Documents/inputs/1_100/106016/anat/106016_3T_T1w_MPR1.nii.gz'
+    rest:
+        rest_1_rest: '/home/ubuntu/Documents/inputs/1_100/106016/rest/106016_3T_rfMRI_REST2_LR.nii.gz'
+-
+    subject_id: '125525'
+    unique_id: 'rest1RL'
+    anat: '/home/ubuntu/Documents/inputs/1_100/125525/anat/125525_3T_T1w_MPR1.nii.gz'
+    rest:
+        rest_1_rest: '/home/ubuntu/Documents/inputs/1_100/125525/rest/125525_3T_rfMRI_REST1_RL.nii.gz'
+-
+    subject_id: '125525'
+    unique_id: 'rest1LR'
+    anat: '/home/ubuntu/Documents/inputs/1_100/125525/anat/125525_3T_T1w_MPR1.nii.gz'
+    rest:
+        rest_1_rest: '/home/ubuntu/Documents/inputs/1_100/125525/rest/125525_3T_rfMRI_REST1_LR.nii.gz'
+-
+    subject_id: '125525'
+    unique_id: 'rest2RL'
+    anat: '/home/ubuntu/Documents/inputs/1_100/125525/anat/125525_3T_T1w_MPR1.nii.gz'
+    rest:
+        rest_1_rest: '/home/ubuntu/Documents/inputs/1_100/125525/rest/125525_3T_rfMRI_REST2_RL.nii.gz'
+-
+    subject_id: '125525'
+    unique_id: 'rest2LR'
+    anat: '/home/ubuntu/Documents/inputs/1_100/125525/anat/125525_3T_T1w_MPR1.nii.gz'
+    rest:
+        rest_1_rest: '/home/ubuntu/Documents/inputs/1_100/125525/rest/125525_3T_rfMRI_REST2_LR.nii.gz'
+-
+    subject_id: '113922'
+    unique_id: 'rest1RL'
+    anat: '/home/ubuntu/Documents/inputs/1_100/113922/anat/113922_3T_T1w_MPR1.nii.gz'
+    rest:
+        rest_1_rest: '/home/ubuntu/Documents/inputs/1_100/113922/rest/113922_3T_rfMRI_REST1_RL.nii.gz'
+-
+    subject_id: '113922'
+    unique_id: 'rest1LR'
+    anat: '/home/ubuntu/Documents/inputs/1_100/113922/anat/113922_3T_T1w_MPR1.nii.gz'
+    rest:
+        rest_1_rest: '/home/ubuntu/Documents/inputs/1_100/113922/rest/113922_3T_rfMRI_REST1_LR.nii.gz'
+-
+    subject_id: '113922'
+    unique_id: 'rest2RL'
+    anat: '/home/ubuntu/Documents/inputs/1_100/113922/anat/113922_3T_T1w_MPR1.nii.gz'
+    rest:
+        rest_1_rest: '/home/ubuntu/Documents/inputs/1_100/113922/rest/113922_3T_rfMRI_REST2_RL.nii.gz'
+-
+    subject_id: '113922'
+    unique_id: 'rest2LR'
+    anat: '/home/ubuntu/Documents/inputs/1_100/113922/anat/113922_3T_T1w_MPR1.nii.gz'
+    rest:
+        rest_1_rest: '/home/ubuntu/Documents/inputs/1_100/113922/rest/113922_3T_rfMRI_REST2_LR.nii.gz'
+-
+    subject_id: '122620'
+    unique_id: 'rest1RL'
+    anat: '/home/ubuntu/Documents/inputs/1_100/122620/anat/122620_3T_T1w_MPR1.nii.gz'
+    rest:
+        rest_1_rest: '/home/ubuntu/Documents/inputs/1_100/122620/rest/122620_3T_rfMRI_REST1_RL.nii.gz'
+-
+    subject_id: '122620'
+    unique_id: 'rest1LR'
+    anat: '/home/ubuntu/Documents/inputs/1_100/122620/anat/122620_3T_T1w_MPR1.nii.gz'
+    rest:
+        rest_1_rest: '/home/ubuntu/Documents/inputs/1_100/122620/rest/122620_3T_rfMRI_REST1_LR.nii.gz'
+-
+    subject_id: '122620'
+    unique_id: 'rest2RL'
+    anat: '/home/ubuntu/Documents/inputs/1_100/122620/anat/122620_3T_T1w_MPR1.nii.gz'
+    rest:
+        rest_1_rest: '/home/ubuntu/Documents/inputs/1_100/122620/rest/122620_3T_rfMRI_REST2_RL.nii.gz'
+-
+    subject_id: '122620'
+    unique_id: 'rest2LR'
+    anat: '/home/ubuntu/Documents/inputs/1_100/122620/anat/122620_3T_T1w_MPR1.nii.gz'
+    rest:
+        rest_1_rest: '/home/ubuntu/Documents/inputs/1_100/122620/rest/122620_3T_rfMRI_REST2_LR.nii.gz'
+-
+    subject_id: '127630'
+    unique_id: 'rest1RL'
+    anat: '/home/ubuntu/Documents/inputs/1_100/127630/anat/127630_3T_T1w_MPR1.nii.gz'
+    rest:
+        rest_1_rest: '/home/ubuntu/Documents/inputs/1_100/127630/rest/127630_3T_rfMRI_REST1_RL.nii.gz'
+-
+    subject_id: '127630'
+    unique_id: 'rest1LR'
+    anat: '/home/ubuntu/Documents/inputs/1_100/127630/anat/127630_3T_T1w_MPR1.nii.gz'
+    rest:
+        rest_1_rest: '/home/ubuntu/Documents/inputs/1_100/127630/rest/127630_3T_rfMRI_REST1_LR.nii.gz'
+-
+    subject_id: '127630'
+    unique_id: 'rest2RL'
+    anat: '/home/ubuntu/Documents/inputs/1_100/127630/anat/127630_3T_T1w_MPR1.nii.gz'
+    rest:
+        rest_1_rest: '/home/ubuntu/Documents/inputs/1_100/127630/rest/127630_3T_rfMRI_REST2_RL.nii.gz'
+-
+    subject_id: '127630'
+    unique_id: 'rest2LR'
+    anat: '/home/ubuntu/Documents/inputs/1_100/127630/anat/127630_3T_T1w_MPR1.nii.gz'
+    rest:
+        rest_1_rest: '/home/ubuntu/Documents/inputs/1_100/127630/rest/127630_3T_rfMRI_REST2_LR.nii.gz'
+-
+    subject_id: '133928'
+    unique_id: 'rest1RL'
+    anat: '/home/ubuntu/Documents/inputs/1_100/133928/anat/133928_3T_T1w_MPR1.nii.gz'
+    rest:
+        rest_1_rest: '/home/ubuntu/Documents/inputs/1_100/133928/rest/133928_3T_rfMRI_REST1_RL.nii.gz'
+-
+    subject_id: '133928'
+    unique_id: 'rest1LR'
+    anat: '/home/ubuntu/Documents/inputs/1_100/133928/anat/133928_3T_T1w_MPR1.nii.gz'
+    rest:
+        rest_1_rest: '/home/ubuntu/Documents/inputs/1_100/133928/rest/133928_3T_rfMRI_REST1_LR.nii.gz'
+-
+    subject_id: '133928'
+    unique_id: 'rest2RL'
+    anat: '/home/ubuntu/Documents/inputs/1_100/133928/anat/133928_3T_T1w_MPR1.nii.gz'
+    rest:
+        rest_1_rest: '/home/ubuntu/Documents/inputs/1_100/133928/rest/133928_3T_rfMRI_REST2_RL.nii.gz'
+-
+    subject_id: '133928'
+    unique_id: 'rest2LR'
+    anat: '/home/ubuntu/Documents/inputs/1_100/133928/anat/133928_3T_T1w_MPR1.nii.gz'
+    rest:
+        rest_1_rest: '/home/ubuntu/Documents/inputs/1_100/133928/rest/133928_3T_rfMRI_REST2_LR.nii.gz'
+-
+    subject_id: '138534'
+    unique_id: 'rest1RL'
+    anat: '/home/ubuntu/Documents/inputs/1_100/138534/anat/138534_3T_T1w_MPR1.nii.gz'
+    rest:
+        rest_1_rest: '/home/ubuntu/Documents/inputs/1_100/138534/rest/138534_3T_rfMRI_REST1_RL.nii.gz'
+-
+    subject_id: '138534'
+    unique_id: 'rest1LR'
+    anat: '/home/ubuntu/Documents/inputs/1_100/138534/anat/138534_3T_T1w_MPR1.nii.gz'
+    rest:
+        rest_1_rest: '/home/ubuntu/Documents/inputs/1_100/138534/rest/138534_3T_rfMRI_REST1_LR.nii.gz'
+-
+    subject_id: '138534'
+    unique_id: 'rest2RL'
+    anat: '/home/ubuntu/Documents/inputs/1_100/138534/anat/138534_3T_T1w_MPR1.nii.gz'
+    rest:
+        rest_1_rest: '/home/ubuntu/Documents/inputs/1_100/138534/rest/138534_3T_rfMRI_REST2_RL.nii.gz'
+-
+    subject_id: '138534'
+    unique_id: 'rest2LR'
+    anat: '/home/ubuntu/Documents/inputs/1_100/138534/anat/138534_3T_T1w_MPR1.nii.gz'
+    rest:
+        rest_1_rest: '/home/ubuntu/Documents/inputs/1_100/138534/rest/138534_3T_rfMRI_REST2_LR.nii.gz'
+-
+    subject_id: '127933'
+    unique_id: 'rest1RL'
+    anat: '/home/ubuntu/Documents/inputs/1_100/127933/anat/127933_3T_T1w_MPR1.nii.gz'
+    rest:
+        rest_1_rest: '/home/ubuntu/Documents/inputs/1_100/127933/rest/127933_3T_rfMRI_REST1_RL.nii.gz'
+-
+    subject_id: '127933'
+    unique_id: 'rest1LR'
+    anat: '/home/ubuntu/Documents/inputs/1_100/127933/anat/127933_3T_T1w_MPR1.nii.gz'
+    rest:
+        rest_1_rest: '/home/ubuntu/Documents/inputs/1_100/127933/rest/127933_3T_rfMRI_REST1_LR.nii.gz'
+-
+    subject_id: '127933'
+    unique_id: 'rest2RL'
+    anat: '/home/ubuntu/Documents/inputs/1_100/127933/anat/127933_3T_T1w_MPR1.nii.gz'
+    rest:
+        rest_1_rest: '/home/ubuntu/Documents/inputs/1_100/127933/rest/127933_3T_rfMRI_REST2_RL.nii.gz'
+-
+    subject_id: '127933'
+    unique_id: 'rest2LR'
+    anat: '/home/ubuntu/Documents/inputs/1_100/127933/anat/127933_3T_T1w_MPR1.nii.gz'
+    rest:
+        rest_1_rest: '/home/ubuntu/Documents/inputs/1_100/127933/rest/127933_3T_rfMRI_REST2_LR.nii.gz'
+-
+    subject_id: '108828'
+    unique_id: 'rest1RL'
+    anat: '/home/ubuntu/Documents/inputs/1_100/108828/anat/108828_3T_T1w_MPR1.nii.gz'
+    rest:
+        rest_1_rest: '/home/ubuntu/Documents/inputs/1_100/108828/rest/108828_3T_rfMRI_REST1_RL.nii.gz'
+-
+    subject_id: '108828'
+    unique_id: 'rest1LR'
+    anat: '/home/ubuntu/Documents/inputs/1_100/108828/anat/108828_3T_T1w_MPR1.nii.gz'
+    rest:
+        rest_1_rest: '/home/ubuntu/Documents/inputs/1_100/108828/rest/108828_3T_rfMRI_REST1_LR.nii.gz'
+-
+    subject_id: '108828'
+    unique_id: 'rest2RL'
+    anat: '/home/ubuntu/Documents/inputs/1_100/108828/anat/108828_3T_T1w_MPR1.nii.gz'
+    rest:
+        rest_1_rest: '/home/ubuntu/Documents/inputs/1_100/108828/rest/108828_3T_rfMRI_REST2_RL.nii.gz'
+-
+    subject_id: '108828'
+    unique_id: 'rest2LR'
+    anat: '/home/ubuntu/Documents/inputs/1_100/108828/anat/108828_3T_T1w_MPR1.nii.gz'
+    rest:
+        rest_1_rest: '/home/ubuntu/Documents/inputs/1_100/108828/rest/108828_3T_rfMRI_REST2_LR.nii.gz'
+-
+    subject_id: '128329'
+    unique_id: 'rest1RL'
+    anat: '/home/ubuntu/Documents/inputs/1_100/128329/anat/128329_3T_T1w_MPR1.nii.gz'
+    rest:
+        rest_1_rest: '/home/ubuntu/Documents/inputs/1_100/128329/rest/128329_3T_rfMRI_REST1_RL.nii.gz'
+-
+    subject_id: '128329'
+    unique_id: 'rest1LR'
+    anat: '/home/ubuntu/Documents/inputs/1_100/128329/anat/128329_3T_T1w_MPR1.nii.gz'
+    rest:
+        rest_1_rest: '/home/ubuntu/Documents/inputs/1_100/128329/rest/128329_3T_rfMRI_REST1_LR.nii.gz'
+-
+    subject_id: '139637'
+    unique_id: 'rest1RL'
+    anat: '/home/ubuntu/Documents/inputs/1_100/139637/anat/139637_3T_T1w_MPR1.nii.gz'
+    rest:
+        rest_1_rest: '/home/ubuntu/Documents/inputs/1_100/139637/rest/139637_3T_rfMRI_REST1_RL.nii.gz'
+-
+    subject_id: '139637'
+    unique_id: 'rest1LR'
+    anat: '/home/ubuntu/Documents/inputs/1_100/139637/anat/139637_3T_T1w_MPR1.nii.gz'
+    rest:
+        rest_1_rest: '/home/ubuntu/Documents/inputs/1_100/139637/rest/139637_3T_rfMRI_REST1_LR.nii.gz'
+-
+    subject_id: '139637'
+    unique_id: 'rest2RL'
+    anat: '/home/ubuntu/Documents/inputs/1_100/139637/anat/139637_3T_T1w_MPR1.nii.gz'
+    rest:
+        rest_1_rest: '/home/ubuntu/Documents/inputs/1_100/139637/rest/139637_3T_rfMRI_REST2_RL.nii.gz'
+-
+    subject_id: '139637'
+    unique_id: 'rest2LR'
+    anat: '/home/ubuntu/Documents/inputs/1_100/139637/anat/139637_3T_T1w_MPR1.nii.gz'
+    rest:
+        rest_1_rest: '/home/ubuntu/Documents/inputs/1_100/139637/rest/139637_3T_rfMRI_REST2_LR.nii.gz'
+-
+    subject_id: '105014'
+    unique_id: 'rest1RL'
+    anat: '/home/ubuntu/Documents/inputs/1_100/105014/anat/105014_3T_T1w_MPR1.nii.gz'
+    rest:
+        rest_1_rest: '/home/ubuntu/Documents/inputs/1_100/105014/rest/105014_3T_rfMRI_REST1_RL.nii.gz'
+-
+    subject_id: '105014'
+    unique_id: 'rest1LR'
+    anat: '/home/ubuntu/Documents/inputs/1_100/105014/anat/105014_3T_T1w_MPR1.nii.gz'
+    rest:
+        rest_1_rest: '/home/ubuntu/Documents/inputs/1_100/105014/rest/105014_3T_rfMRI_REST1_LR.nii.gz'
+-
+    subject_id: '105014'
+    unique_id: 'rest2RL'
+    anat: '/home/ubuntu/Documents/inputs/1_100/105014/anat/105014_3T_T1w_MPR1.nii.gz'
+    rest:
+        rest_1_rest: '/home/ubuntu/Documents/inputs/1_100/105014/rest/105014_3T_rfMRI_REST2_RL.nii.gz'
+-
+    subject_id: '105014'
+    unique_id: 'rest2LR'
+    anat: '/home/ubuntu/Documents/inputs/1_100/105014/anat/105014_3T_T1w_MPR1.nii.gz'
+    rest:
+        rest_1_rest: '/home/ubuntu/Documents/inputs/1_100/105014/rest/105014_3T_rfMRI_REST2_LR.nii.gz'
+-
+    subject_id: '101107'
+    unique_id: 'rest1RL'
+    anat: '/home/ubuntu/Documents/inputs/1_100/101107/anat/101107_3T_T1w_MPR1.nii.gz'
+    rest:
+        rest_1_rest: '/home/ubuntu/Documents/inputs/1_100/101107/rest/101107_3T_rfMRI_REST1_RL.nii.gz'
+-
+    subject_id: '101107'
+    unique_id: 'rest1LR'
+    anat: '/home/ubuntu/Documents/inputs/1_100/101107/anat/101107_3T_T1w_MPR1.nii.gz'
+    rest:
+        rest_1_rest: '/home/ubuntu/Documents/inputs/1_100/101107/rest/101107_3T_rfMRI_REST1_LR.nii.gz'
+-
+    subject_id: '101107'
+    unique_id: 'rest2RL'
+    anat: '/home/ubuntu/Documents/inputs/1_100/101107/anat/101107_3T_T1w_MPR1.nii.gz'
+    rest:
+        rest_1_rest: '/home/ubuntu/Documents/inputs/1_100/101107/rest/101107_3T_rfMRI_REST2_RL.nii.gz'
+-
+    subject_id: '101107'
+    unique_id: 'rest2LR'
+    anat: '/home/ubuntu/Documents/inputs/1_100/101107/anat/101107_3T_T1w_MPR1.nii.gz'
+    rest:
+        rest_1_rest: '/home/ubuntu/Documents/inputs/1_100/101107/rest/101107_3T_rfMRI_REST2_LR.nii.gz'
+-
+    subject_id: '109325'
+    unique_id: 'rest1RL'
+    anat: '/home/ubuntu/Documents/inputs/1_100/109325/anat/109325_3T_T1w_MPR1.nii.gz'
+    rest:
+        rest_1_rest: '/home/ubuntu/Documents/inputs/1_100/109325/rest/109325_3T_rfMRI_REST1_RL.nii.gz'
+-
+    subject_id: '109325'
+    unique_id: 'rest1LR'
+    anat: '/home/ubuntu/Documents/inputs/1_100/109325/anat/109325_3T_T1w_MPR1.nii.gz'
+    rest:
+        rest_1_rest: '/home/ubuntu/Documents/inputs/1_100/109325/rest/109325_3T_rfMRI_REST1_LR.nii.gz'
+-
+    subject_id: '109325'
+    unique_id: 'rest2RL'
+    anat: '/home/ubuntu/Documents/inputs/1_100/109325/anat/109325_3T_T1w_MPR1.nii.gz'
+    rest:
+        rest_1_rest: '/home/ubuntu/Documents/inputs/1_100/109325/rest/109325_3T_rfMRI_REST2_RL.nii.gz'
+-
+    subject_id: '109325'
+    unique_id: 'rest2LR'
+    anat: '/home/ubuntu/Documents/inputs/1_100/109325/anat/109325_3T_T1w_MPR1.nii.gz'
+    rest:
+        rest_1_rest: '/home/ubuntu/Documents/inputs/1_100/109325/rest/109325_3T_rfMRI_REST2_LR.nii.gz'
+-
+    subject_id: '103414'
+    unique_id: 'rest1RL'
+    anat: '/home/ubuntu/Documents/inputs/1_100/103414/anat/103414_3T_T1w_MPR1.nii.gz'
+    rest:
+        rest_1_rest: '/home/ubuntu/Documents/inputs/1_100/103414/rest/103414_3T_rfMRI_REST1_RL.nii.gz'
+-
+    subject_id: '103414'
+    unique_id: 'rest1LR'
+    anat: '/home/ubuntu/Documents/inputs/1_100/103414/anat/103414_3T_T1w_MPR1.nii.gz'
+    rest:
+        rest_1_rest: '/home/ubuntu/Documents/inputs/1_100/103414/rest/103414_3T_rfMRI_REST1_LR.nii.gz'
+-
+    subject_id: '103414'
+    unique_id: 'rest2RL'
+    anat: '/home/ubuntu/Documents/inputs/1_100/103414/anat/103414_3T_T1w_MPR1.nii.gz'
+    rest:
+        rest_1_rest: '/home/ubuntu/Documents/inputs/1_100/103414/rest/103414_3T_rfMRI_REST2_RL.nii.gz'
+-
+    subject_id: '103414'
+    unique_id: 'rest2LR'
+    anat: '/home/ubuntu/Documents/inputs/1_100/103414/anat/103414_3T_T1w_MPR1.nii.gz'
+    rest:
+        rest_1_rest: '/home/ubuntu/Documents/inputs/1_100/103414/rest/103414_3T_rfMRI_REST2_LR.nii.gz'
+-
+    subject_id: '123925'
+    unique_id: 'rest1RL'
+    anat: '/home/ubuntu/Documents/inputs/1_100/123925/anat/123925_3T_T1w_MPR1.nii.gz'
+    rest:
+        rest_1_rest: '/home/ubuntu/Documents/inputs/1_100/123925/rest/123925_3T_rfMRI_REST1_RL.nii.gz'
+-
+    subject_id: '123925'
+    unique_id: 'rest1LR'
+    anat: '/home/ubuntu/Documents/inputs/1_100/123925/anat/123925_3T_T1w_MPR1.nii.gz'
+    rest:
+        rest_1_rest: '/home/ubuntu/Documents/inputs/1_100/123925/rest/123925_3T_rfMRI_REST1_LR.nii.gz'
+-
+    subject_id: '123925'
+    unique_id: 'rest2RL'
+    anat: '/home/ubuntu/Documents/inputs/1_100/123925/anat/123925_3T_T1w_MPR1.nii.gz'
+    rest:
+        rest_1_rest: '/home/ubuntu/Documents/inputs/1_100/123925/rest/123925_3T_rfMRI_REST2_RL.nii.gz'
+-
+    subject_id: '123925'
+    unique_id: 'rest2LR'
+    anat: '/home/ubuntu/Documents/inputs/1_100/123925/anat/123925_3T_T1w_MPR1.nii.gz'
+    rest:
+        rest_1_rest: '/home/ubuntu/Documents/inputs/1_100/123925/rest/123925_3T_rfMRI_REST2_LR.nii.gz'
+-
+    subject_id: '131722'
+    unique_id: 'rest1RL'
+    anat: '/home/ubuntu/Documents/inputs/1_100/131722/anat/131722_3T_T1w_MPR1.nii.gz'
+    rest:
+        rest_1_rest: '/home/ubuntu/Documents/inputs/1_100/131722/rest/131722_3T_rfMRI_REST1_RL.nii.gz'
+-
+    subject_id: '131722'
+    unique_id: 'rest1LR'
+    anat: '/home/ubuntu/Documents/inputs/1_100/131722/anat/131722_3T_T1w_MPR1.nii.gz'
+    rest:
+        rest_1_rest: '/home/ubuntu/Documents/inputs/1_100/131722/rest/131722_3T_rfMRI_REST1_LR.nii.gz'
+-
+    subject_id: '131722'
+    unique_id: 'rest2RL'
+    anat: '/home/ubuntu/Documents/inputs/1_100/131722/anat/131722_3T_T1w_MPR1.nii.gz'
+    rest:
+        rest_1_rest: '/home/ubuntu/Documents/inputs/1_100/131722/rest/131722_3T_rfMRI_REST2_RL.nii.gz'
+-
+    subject_id: '131722'
+    unique_id: 'rest2LR'
+    anat: '/home/ubuntu/Documents/inputs/1_100/131722/anat/131722_3T_T1w_MPR1.nii.gz'
+    rest:
+        rest_1_rest: '/home/ubuntu/Documents/inputs/1_100/131722/rest/131722_3T_rfMRI_REST2_LR.nii.gz'
+-
+    subject_id: '133827'
+    unique_id: 'rest1RL'
+    anat: '/home/ubuntu/Documents/inputs/1_100/133827/anat/133827_3T_T1w_MPR1.nii.gz'
+    rest:
+        rest_1_rest: '/home/ubuntu/Documents/inputs/1_100/133827/rest/133827_3T_rfMRI_REST1_RL.nii.gz'
+-
+    subject_id: '133827'
+    unique_id: 'rest1LR'
+    anat: '/home/ubuntu/Documents/inputs/1_100/133827/anat/133827_3T_T1w_MPR1.nii.gz'
+    rest:
+        rest_1_rest: '/home/ubuntu/Documents/inputs/1_100/133827/rest/133827_3T_rfMRI_REST1_LR.nii.gz'
+-
+    subject_id: '133827'
+    unique_id: 'rest2RL'
+    anat: '/home/ubuntu/Documents/inputs/1_100/133827/anat/133827_3T_T1w_MPR1.nii.gz'
+    rest:
+        rest_1_rest: '/home/ubuntu/Documents/inputs/1_100/133827/rest/133827_3T_rfMRI_REST2_RL.nii.gz'
+-
+    subject_id: '133827'
+    unique_id: 'rest2LR'
+    anat: '/home/ubuntu/Documents/inputs/1_100/133827/anat/133827_3T_T1w_MPR1.nii.gz'
+    rest:
+        rest_1_rest: '/home/ubuntu/Documents/inputs/1_100/133827/rest/133827_3T_rfMRI_REST2_LR.nii.gz'
+-
+    subject_id: '100307'
+    unique_id: 'rest1RL'
+    anat: '/home/ubuntu/Documents/inputs/1_100/100307/anat/100307_3T_T1w_MPR1.nii.gz'
+    rest:
+        rest_1_rest: '/home/ubuntu/Documents/inputs/1_100/100307/rest/100307_3T_rfMRI_REST1_RL.nii.gz'
+-
+    subject_id: '100307'
+    unique_id: 'rest1LR'
+    anat: '/home/ubuntu/Documents/inputs/1_100/100307/anat/100307_3T_T1w_MPR1.nii.gz'
+    rest:
+        rest_1_rest: '/home/ubuntu/Documents/inputs/1_100/100307/rest/100307_3T_rfMRI_REST1_LR.nii.gz'
+-
+    subject_id: '100307'
+    unique_id: 'rest2RL'
+    anat: '/home/ubuntu/Documents/inputs/1_100/100307/anat/100307_3T_T1w_MPR1.nii.gz'
+    rest:
+        rest_1_rest: '/home/ubuntu/Documents/inputs/1_100/100307/rest/100307_3T_rfMRI_REST2_RL.nii.gz'
+-
+    subject_id: '100307'
+    unique_id: 'rest2LR'
+    anat: '/home/ubuntu/Documents/inputs/1_100/100307/anat/100307_3T_T1w_MPR1.nii.gz'
+    rest:
+        rest_1_rest: '/home/ubuntu/Documents/inputs/1_100/100307/rest/100307_3T_rfMRI_REST2_LR.nii.gz'
+-
+    subject_id: '123420'
+    unique_id: 'rest1RL'
+    anat: '/home/ubuntu/Documents/inputs/1_100/123420/anat/123420_3T_T1w_MPR1.nii.gz'
+    rest:
+        rest_1_rest: '/home/ubuntu/Documents/inputs/1_100/123420/rest/123420_3T_rfMRI_REST1_RL.nii.gz'
+-
+    subject_id: '123420'
+    unique_id: 'rest1LR'
+    anat: '/home/ubuntu/Documents/inputs/1_100/123420/anat/123420_3T_T1w_MPR1.nii.gz'
+    rest:
+        rest_1_rest: '/home/ubuntu/Documents/inputs/1_100/123420/rest/123420_3T_rfMRI_REST1_LR.nii.gz'
+-
+    subject_id: '123420'
+    unique_id: 'rest2RL'
+    anat: '/home/ubuntu/Documents/inputs/1_100/123420/anat/123420_3T_T1w_MPR1.nii.gz'
+    rest:
+        rest_1_rest: '/home/ubuntu/Documents/inputs/1_100/123420/rest/123420_3T_rfMRI_REST2_RL.nii.gz'
+-
+    subject_id: '123420'
+    unique_id: 'rest2LR'
+    anat: '/home/ubuntu/Documents/inputs/1_100/123420/anat/123420_3T_T1w_MPR1.nii.gz'
+    rest:
+        rest_1_rest: '/home/ubuntu/Documents/inputs/1_100/123420/rest/123420_3T_rfMRI_REST2_LR.nii.gz'
+-
+    subject_id: '137027'
+    unique_id: 'rest1RL'
+    anat: '/home/ubuntu/Documents/inputs/1_100/137027/anat/137027_3T_T1w_MPR1.nii.gz'
+    rest:
+        rest_1_rest: '/home/ubuntu/Documents/inputs/1_100/137027/rest/137027_3T_rfMRI_REST1_RL.nii.gz'
+-
+    subject_id: '137027'
+    unique_id: 'rest1LR'
+    anat: '/home/ubuntu/Documents/inputs/1_100/137027/anat/137027_3T_T1w_MPR1.nii.gz'
+    rest:
+        rest_1_rest: '/home/ubuntu/Documents/inputs/1_100/137027/rest/137027_3T_rfMRI_REST1_LR.nii.gz'
+-
+    subject_id: '137027'
+    unique_id: 'rest2RL'
+    anat: '/home/ubuntu/Documents/inputs/1_100/137027/anat/137027_3T_T1w_MPR1.nii.gz'
+    rest:
+        rest_1_rest: '/home/ubuntu/Documents/inputs/1_100/137027/rest/137027_3T_rfMRI_REST2_RL.nii.gz'
+-
+    subject_id: '137027'
+    unique_id: 'rest2LR'
+    anat: '/home/ubuntu/Documents/inputs/1_100/137027/anat/137027_3T_T1w_MPR1.nii.gz'
+    rest:
+        rest_1_rest: '/home/ubuntu/Documents/inputs/1_100/137027/rest/137027_3T_rfMRI_REST2_LR.nii.gz'
+-
+    subject_id: '111312'
+    unique_id: 'rest1RL'
+    anat: '/home/ubuntu/Documents/inputs/1_100/111312/anat/111312_3T_T1w_MPR1.nii.gz'
+    rest:
+        rest_1_rest: '/home/ubuntu/Documents/inputs/1_100/111312/rest/111312_3T_rfMRI_REST1_RL.nii.gz'
+-
+    subject_id: '111312'
+    unique_id: 'rest1LR'
+    anat: '/home/ubuntu/Documents/inputs/1_100/111312/anat/111312_3T_T1w_MPR1.nii.gz'
+    rest:
+        rest_1_rest: '/home/ubuntu/Documents/inputs/1_100/111312/rest/111312_3T_rfMRI_REST1_LR.nii.gz'
+-
+    subject_id: '111312'
+    unique_id: 'rest2RL'
+    anat: '/home/ubuntu/Documents/inputs/1_100/111312/anat/111312_3T_T1w_MPR1.nii.gz'
+    rest:
+        rest_1_rest: '/home/ubuntu/Documents/inputs/1_100/111312/rest/111312_3T_rfMRI_REST2_RL.nii.gz'
+-
+    subject_id: '111312'
+    unique_id: 'rest2LR'
+    anat: '/home/ubuntu/Documents/inputs/1_100/111312/anat/111312_3T_T1w_MPR1.nii.gz'
+    rest:
+        rest_1_rest: '/home/ubuntu/Documents/inputs/1_100/111312/rest/111312_3T_rfMRI_REST2_LR.nii.gz'
+-
+    subject_id: '116524'
+    unique_id: 'rest1RL'
+    anat: '/home/ubuntu/Documents/inputs/1_100/116524/anat/116524_3T_T1w_MPR1.nii.gz'
+    rest:
+        rest_1_rest: '/home/ubuntu/Documents/inputs/1_100/116524/rest/116524_3T_rfMRI_REST1_RL.nii.gz'
+-
+    subject_id: '116524'
+    unique_id: 'rest1LR'
+    anat: '/home/ubuntu/Documents/inputs/1_100/116524/anat/116524_3T_T1w_MPR1.nii.gz'
+    rest:
+        rest_1_rest: '/home/ubuntu/Documents/inputs/1_100/116524/rest/116524_3T_rfMRI_REST1_LR.nii.gz'
+-
+    subject_id: '116524'
+    unique_id: 'rest2RL'
+    anat: '/home/ubuntu/Documents/inputs/1_100/116524/anat/116524_3T_T1w_MPR1.nii.gz'
+    rest:
+        rest_1_rest: '/home/ubuntu/Documents/inputs/1_100/116524/rest/116524_3T_rfMRI_REST2_RL.nii.gz'
+-
+    subject_id: '116524'
+    unique_id: 'rest2LR'
+    anat: '/home/ubuntu/Documents/inputs/1_100/116524/anat/116524_3T_T1w_MPR1.nii.gz'
+    rest:
+        rest_1_rest: '/home/ubuntu/Documents/inputs/1_100/116524/rest/116524_3T_rfMRI_REST2_LR.nii.gz'
+-
+    subject_id: '131217'
+    unique_id: 'rest1RL'
+    anat: '/home/ubuntu/Documents/inputs/1_100/131217/anat/131217_3T_T1w_MPR1.nii.gz'
+    rest:
+        rest_1_rest: '/home/ubuntu/Documents/inputs/1_100/131217/rest/131217_3T_rfMRI_REST1_RL.nii.gz'
+-
+    subject_id: '131217'
+    unique_id: 'rest1LR'
+    anat: '/home/ubuntu/Documents/inputs/1_100/131217/anat/131217_3T_T1w_MPR1.nii.gz'
+    rest:
+        rest_1_rest: '/home/ubuntu/Documents/inputs/1_100/131217/rest/131217_3T_rfMRI_REST1_LR.nii.gz'
+-
+    subject_id: '131217'
+    unique_id: 'rest2RL'
+    anat: '/home/ubuntu/Documents/inputs/1_100/131217/anat/131217_3T_T1w_MPR1.nii.gz'
+    rest:
+        rest_1_rest: '/home/ubuntu/Documents/inputs/1_100/131217/rest/131217_3T_rfMRI_REST2_RL.nii.gz'
+-
+    subject_id: '131217'
+    unique_id: 'rest2LR'
+    anat: '/home/ubuntu/Documents/inputs/1_100/131217/anat/131217_3T_T1w_MPR1.nii.gz'
+    rest:
+        rest_1_rest: '/home/ubuntu/Documents/inputs/1_100/131217/rest/131217_3T_rfMRI_REST2_LR.nii.gz'
+-
+    subject_id: '105216'
+    unique_id: 'rest1RL'
+    anat: '/home/ubuntu/Documents/inputs/1_100/105216/anat/105216_3T_T1w_MPR1.nii.gz'
+    rest:
+        rest_1_rest: '/home/ubuntu/Documents/inputs/1_100/105216/rest/105216_3T_rfMRI_REST1_RL.nii.gz'
+-
+    subject_id: '105216'
+    unique_id: 'rest1LR'
+    anat: '/home/ubuntu/Documents/inputs/1_100/105216/anat/105216_3T_T1w_MPR1.nii.gz'
+    rest:
+        rest_1_rest: '/home/ubuntu/Documents/inputs/1_100/105216/rest/105216_3T_rfMRI_REST1_LR.nii.gz'
+-
+    subject_id: '105216'
+    unique_id: 'rest2RL'
+    anat: '/home/ubuntu/Documents/inputs/1_100/105216/anat/105216_3T_T1w_MPR1.nii.gz'
+    rest:
+        rest_1_rest: '/home/ubuntu/Documents/inputs/1_100/105216/rest/105216_3T_rfMRI_REST2_RL.nii.gz'
+-
+    subject_id: '105216'
+    unique_id: 'rest2LR'
+    anat: '/home/ubuntu/Documents/inputs/1_100/105216/anat/105216_3T_T1w_MPR1.nii.gz'
+    rest:
+        rest_1_rest: '/home/ubuntu/Documents/inputs/1_100/105216/rest/105216_3T_rfMRI_REST2_LR.nii.gz'
+-
+    subject_id: '131924'
+    unique_id: 'rest1RL'
+    anat: '/home/ubuntu/Documents/inputs/1_100/131924/anat/131924_3T_T1w_MPR1.nii.gz'
+    rest:
+        rest_1_rest: '/home/ubuntu/Documents/inputs/1_100/131924/rest/131924_3T_rfMRI_REST1_RL.nii.gz'
+-
+    subject_id: '131924'
+    unique_id: 'rest1LR'
+    anat: '/home/ubuntu/Documents/inputs/1_100/131924/anat/131924_3T_T1w_MPR1.nii.gz'
+    rest:
+        rest_1_rest: '/home/ubuntu/Documents/inputs/1_100/131924/rest/131924_3T_rfMRI_REST1_LR.nii.gz'
+-
+    subject_id: '131924'
+    unique_id: 'rest2RL'
+    anat: '/home/ubuntu/Documents/inputs/1_100/131924/anat/131924_3T_T1w_MPR1.nii.gz'
+    rest:
+        rest_1_rest: '/home/ubuntu/Documents/inputs/1_100/131924/rest/131924_3T_rfMRI_REST2_RL.nii.gz'
+-
+    subject_id: '131924'
+    unique_id: 'rest2LR'
+    anat: '/home/ubuntu/Documents/inputs/1_100/131924/anat/131924_3T_T1w_MPR1.nii.gz'
+    rest:
+        rest_1_rest: '/home/ubuntu/Documents/inputs/1_100/131924/rest/131924_3T_rfMRI_REST2_LR.nii.gz'
+-
+    subject_id: '137633'
+    unique_id: 'rest1RL'
+    anat: '/home/ubuntu/Documents/inputs/1_100/137633/anat/137633_3T_T1w_MPR1.nii.gz'
+    rest:
+        rest_1_rest: '/home/ubuntu/Documents/inputs/1_100/137633/rest/137633_3T_rfMRI_REST1_RL.nii.gz'
+-
+    subject_id: '137633'
+    unique_id: 'rest1LR'
+    anat: '/home/ubuntu/Documents/inputs/1_100/137633/anat/137633_3T_T1w_MPR1.nii.gz'
+    rest:
+        rest_1_rest: '/home/ubuntu/Documents/inputs/1_100/137633/rest/137633_3T_rfMRI_REST1_LR.nii.gz'
+-
+    subject_id: '137633'
+    unique_id: 'rest2RL'
+    anat: '/home/ubuntu/Documents/inputs/1_100/137633/anat/137633_3T_T1w_MPR1.nii.gz'
+    rest:
+        rest_1_rest: '/home/ubuntu/Documents/inputs/1_100/137633/rest/137633_3T_rfMRI_REST2_RL.nii.gz'
+-
+    subject_id: '137633'
+    unique_id: 'rest2LR'
+    anat: '/home/ubuntu/Documents/inputs/1_100/137633/anat/137633_3T_T1w_MPR1.nii.gz'
+    rest:
+        rest_1_rest: '/home/ubuntu/Documents/inputs/1_100/137633/rest/137633_3T_rfMRI_REST2_LR.nii.gz'
+-
+    subject_id: '100408'
+    unique_id: 'rest1RL'
+    anat: '/home/ubuntu/Documents/inputs/1_100/100408/anat/100408_3T_T1w_MPR1.nii.gz'
+    rest:
+        rest_1_rest: '/home/ubuntu/Documents/inputs/1_100/100408/rest/100408_3T_rfMRI_REST1_RL.nii.gz'
+-
+    subject_id: '100408'
+    unique_id: 'rest1LR'
+    anat: '/home/ubuntu/Documents/inputs/1_100/100408/anat/100408_3T_T1w_MPR1.nii.gz'
+    rest:
+        rest_1_rest: '/home/ubuntu/Documents/inputs/1_100/100408/rest/100408_3T_rfMRI_REST1_LR.nii.gz'
+-
+    subject_id: '100408'
+    unique_id: 'rest2RL'
+    anat: '/home/ubuntu/Documents/inputs/1_100/100408/anat/100408_3T_T1w_MPR1.nii.gz'
+    rest:
+        rest_1_rest: '/home/ubuntu/Documents/inputs/1_100/100408/rest/100408_3T_rfMRI_REST2_RL.nii.gz'
+-
+    subject_id: '100408'
+    unique_id: 'rest2LR'
+    anat: '/home/ubuntu/Documents/inputs/1_100/100408/anat/100408_3T_T1w_MPR1.nii.gz'
+    rest:
+        rest_1_rest: '/home/ubuntu/Documents/inputs/1_100/100408/rest/100408_3T_rfMRI_REST2_LR.nii.gz'
+-
+    subject_id: '108525'
+    unique_id: 'rest1RL'
+    anat: '/home/ubuntu/Documents/inputs/1_100/108525/anat/108525_3T_T1w_MPR1.nii.gz'
+    rest:
+        rest_1_rest: '/home/ubuntu/Documents/inputs/1_100/108525/rest/108525_3T_rfMRI_REST1_RL.nii.gz'
+-
+    subject_id: '108525'
+    unique_id: 'rest1LR'
+    anat: '/home/ubuntu/Documents/inputs/1_100/108525/anat/108525_3T_T1w_MPR1.nii.gz'
+    rest:
+        rest_1_rest: '/home/ubuntu/Documents/inputs/1_100/108525/rest/108525_3T_rfMRI_REST1_LR.nii.gz'
+-
+    subject_id: '108525'
+    unique_id: 'rest2RL'
+    anat: '/home/ubuntu/Documents/inputs/1_100/108525/anat/108525_3T_T1w_MPR1.nii.gz'
+    rest:
+        rest_1_rest: '/home/ubuntu/Documents/inputs/1_100/108525/rest/108525_3T_rfMRI_REST2_RL.nii.gz'
+-
+    subject_id: '108525'
+    unique_id: 'rest2LR'
+    anat: '/home/ubuntu/Documents/inputs/1_100/108525/anat/108525_3T_T1w_MPR1.nii.gz'
+    rest:
+        rest_1_rest: '/home/ubuntu/Documents/inputs/1_100/108525/rest/108525_3T_rfMRI_REST2_LR.nii.gz'
+-
+    subject_id: '118730'
+    unique_id: 'rest1RL'
+    anat: '/home/ubuntu/Documents/inputs/1_100/118730/anat/118730_3T_T1w_MPR1.nii.gz'
+    rest:
+        rest_1_rest: '/home/ubuntu/Documents/inputs/1_100/118730/rest/118730_3T_rfMRI_REST1_RL.nii.gz'
+-
+    subject_id: '118730'
+    unique_id: 'rest1LR'
+    anat: '/home/ubuntu/Documents/inputs/1_100/118730/anat/118730_3T_T1w_MPR1.nii.gz'
+    rest:
+        rest_1_rest: '/home/ubuntu/Documents/inputs/1_100/118730/rest/118730_3T_rfMRI_REST1_LR.nii.gz'
+-
+    subject_id: '118730'
+    unique_id: 'rest2RL'
+    anat: '/home/ubuntu/Documents/inputs/1_100/118730/anat/118730_3T_T1w_MPR1.nii.gz'
+    rest:
+        rest_1_rest: '/home/ubuntu/Documents/inputs/1_100/118730/rest/118730_3T_rfMRI_REST2_RL.nii.gz'
+-
+    subject_id: '118730'
+    unique_id: 'rest2LR'
+    anat: '/home/ubuntu/Documents/inputs/1_100/118730/anat/118730_3T_T1w_MPR1.nii.gz'
+    rest:
+        rest_1_rest: '/home/ubuntu/Documents/inputs/1_100/118730/rest/118730_3T_rfMRI_REST2_LR.nii.gz'
+-
+    subject_id: '108121'
+    unique_id: 'rest1RL'
+    anat: '/home/ubuntu/Documents/inputs/1_100/108121/anat/108121_3T_T1w_MPR1.nii.gz'
+    rest:
+        rest_1_rest: '/home/ubuntu/Documents/inputs/1_100/108121/rest/108121_3T_rfMRI_REST1_RL.nii.gz'
+-
+    subject_id: '108121'
+    unique_id: 'rest1LR'
+    anat: '/home/ubuntu/Documents/inputs/1_100/108121/anat/108121_3T_T1w_MPR1.nii.gz'
+    rest:
+        rest_1_rest: '/home/ubuntu/Documents/inputs/1_100/108121/rest/108121_3T_rfMRI_REST1_LR.nii.gz'
+-
+    subject_id: '108121'
+    unique_id: 'rest2RL'
+    anat: '/home/ubuntu/Documents/inputs/1_100/108121/anat/108121_3T_T1w_MPR1.nii.gz'
+    rest:
+        rest_1_rest: '/home/ubuntu/Documents/inputs/1_100/108121/rest/108121_3T_rfMRI_REST2_RL.nii.gz'
+-
+    subject_id: '108121'
+    unique_id: 'rest2LR'
+    anat: '/home/ubuntu/Documents/inputs/1_100/108121/anat/108121_3T_T1w_MPR1.nii.gz'
+    rest:
+        rest_1_rest: '/home/ubuntu/Documents/inputs/1_100/108121/rest/108121_3T_rfMRI_REST2_LR.nii.gz'
+-
+    subject_id: '129028'
+    unique_id: 'rest1RL'
+    anat: '/home/ubuntu/Documents/inputs/1_100/129028/anat/129028_3T_T1w_MPR1.nii.gz'
+    rest:
+        rest_1_rest: '/home/ubuntu/Documents/inputs/1_100/129028/rest/129028_3T_rfMRI_REST1_RL.nii.gz'
+-
+    subject_id: '129028'
+    unique_id: 'rest1LR'
+    anat: '/home/ubuntu/Documents/inputs/1_100/129028/anat/129028_3T_T1w_MPR1.nii.gz'
+    rest:
+        rest_1_rest: '/home/ubuntu/Documents/inputs/1_100/129028/rest/129028_3T_rfMRI_REST1_LR.nii.gz'
+-
+    subject_id: '129028'
+    unique_id: 'rest2RL'
+    anat: '/home/ubuntu/Documents/inputs/1_100/129028/anat/129028_3T_T1w_MPR1.nii.gz'
+    rest:
+        rest_1_rest: '/home/ubuntu/Documents/inputs/1_100/129028/rest/129028_3T_rfMRI_REST2_RL.nii.gz'
+-
+    subject_id: '129028'
+    unique_id: 'rest2LR'
+    anat: '/home/ubuntu/Documents/inputs/1_100/129028/anat/129028_3T_T1w_MPR1.nii.gz'
+    rest:
+        rest_1_rest: '/home/ubuntu/Documents/inputs/1_100/129028/rest/129028_3T_rfMRI_REST2_LR.nii.gz'
+-
+    subject_id: '101309'
+    unique_id: 'rest1RL'
+    anat: '/home/ubuntu/Documents/inputs/1_100/101309/anat/101309_3T_T1w_MPR1.nii.gz'
+    rest:
+        rest_1_rest: '/home/ubuntu/Documents/inputs/1_100/101309/rest/101309_3T_rfMRI_REST1_RL.nii.gz'
+-
+    subject_id: '101309'
+    unique_id: 'rest1LR'
+    anat: '/home/ubuntu/Documents/inputs/1_100/101309/anat/101309_3T_T1w_MPR1.nii.gz'
+    rest:
+        rest_1_rest: '/home/ubuntu/Documents/inputs/1_100/101309/rest/101309_3T_rfMRI_REST1_LR.nii.gz'
+-
+    subject_id: '101309'
+    unique_id: 'rest2RL'
+    anat: '/home/ubuntu/Documents/inputs/1_100/101309/anat/101309_3T_T1w_MPR1.nii.gz'
+    rest:
+        rest_1_rest: '/home/ubuntu/Documents/inputs/1_100/101309/rest/101309_3T_rfMRI_REST2_RL.nii.gz'
+-
+    subject_id: '101309'
+    unique_id: 'rest2LR'
+    anat: '/home/ubuntu/Documents/inputs/1_100/101309/anat/101309_3T_T1w_MPR1.nii.gz'
+    rest:
+        rest_1_rest: '/home/ubuntu/Documents/inputs/1_100/101309/rest/101309_3T_rfMRI_REST2_LR.nii.gz'
+-
+    subject_id: '124220'
+    unique_id: 'rest1RL'
+    anat: '/home/ubuntu/Documents/inputs/1_100/124220/anat/124220_3T_T1w_MPR1.nii.gz'
+    rest:
+        rest_1_rest: '/home/ubuntu/Documents/inputs/1_100/124220/rest/124220_3T_rfMRI_REST1_RL.nii.gz'
+-
+    subject_id: '124220'
+    unique_id: 'rest1LR'
+    anat: '/home/ubuntu/Documents/inputs/1_100/124220/anat/124220_3T_T1w_MPR1.nii.gz'
+    rest:
+        rest_1_rest: '/home/ubuntu/Documents/inputs/1_100/124220/rest/124220_3T_rfMRI_REST1_LR.nii.gz'
+-
+    subject_id: '124220'
+    unique_id: 'rest2RL'
+    anat: '/home/ubuntu/Documents/inputs/1_100/124220/anat/124220_3T_T1w_MPR1.nii.gz'
+    rest:
+        rest_1_rest: '/home/ubuntu/Documents/inputs/1_100/124220/rest/124220_3T_rfMRI_REST2_RL.nii.gz'
+-
+    subject_id: '124220'
+    unique_id: 'rest2LR'
+    anat: '/home/ubuntu/Documents/inputs/1_100/124220/anat/124220_3T_T1w_MPR1.nii.gz'
+    rest:
+        rest_1_rest: '/home/ubuntu/Documents/inputs/1_100/124220/rest/124220_3T_rfMRI_REST2_LR.nii.gz'
+-
+    subject_id: '103818'
+    unique_id: 'rest1RL'
+    anat: '/home/ubuntu/Documents/inputs/1_100/103818/anat/103818_3T_T1w_MPR1.nii.gz'
+    rest:
+        rest_1_rest: '/home/ubuntu/Documents/inputs/1_100/103818/rest/103818_3T_rfMRI_REST1_RL.nii.gz'
+-
+    subject_id: '103818'
+    unique_id: 'rest1LR'
+    anat: '/home/ubuntu/Documents/inputs/1_100/103818/anat/103818_3T_T1w_MPR1.nii.gz'
+    rest:
+        rest_1_rest: '/home/ubuntu/Documents/inputs/1_100/103818/rest/103818_3T_rfMRI_REST1_LR.nii.gz'
+-
+    subject_id: '103818'
+    unique_id: 'rest2RL'
+    anat: '/home/ubuntu/Documents/inputs/1_100/103818/anat/103818_3T_T1w_MPR1.nii.gz'
+    rest:
+        rest_1_rest: '/home/ubuntu/Documents/inputs/1_100/103818/rest/103818_3T_rfMRI_REST2_RL.nii.gz'
+-
+    subject_id: '103818'
+    unique_id: 'rest2LR'
+    anat: '/home/ubuntu/Documents/inputs/1_100/103818/anat/103818_3T_T1w_MPR1.nii.gz'
+    rest:
+        rest_1_rest: '/home/ubuntu/Documents/inputs/1_100/103818/rest/103818_3T_rfMRI_REST2_LR.nii.gz'
+-
+    subject_id: '119833'
+    unique_id: 'rest1RL'
+    anat: '/home/ubuntu/Documents/inputs/1_100/119833/anat/119833_3T_T1w_MPR1.nii.gz'
+    rest:
+        rest_1_rest: '/home/ubuntu/Documents/inputs/1_100/119833/rest/119833_3T_rfMRI_REST1_RL.nii.gz'
+-
+    subject_id: '119833'
+    unique_id: 'rest1LR'
+    anat: '/home/ubuntu/Documents/inputs/1_100/119833/anat/119833_3T_T1w_MPR1.nii.gz'
+    rest:
+        rest_1_rest: '/home/ubuntu/Documents/inputs/1_100/119833/rest/119833_3T_rfMRI_REST1_LR.nii.gz'
+-
+    subject_id: '119833'
+    unique_id: 'rest2RL'
+    anat: '/home/ubuntu/Documents/inputs/1_100/119833/anat/119833_3T_T1w_MPR1.nii.gz'
+    rest:
+        rest_1_rest: '/home/ubuntu/Documents/inputs/1_100/119833/rest/119833_3T_rfMRI_REST2_RL.nii.gz'
+-
+    subject_id: '119833'
+    unique_id: 'rest2LR'
+    anat: '/home/ubuntu/Documents/inputs/1_100/119833/anat/119833_3T_T1w_MPR1.nii.gz'
+    rest:
+        rest_1_rest: '/home/ubuntu/Documents/inputs/1_100/119833/rest/119833_3T_rfMRI_REST2_LR.nii.gz'
+-
+    subject_id: '123117'
+    unique_id: 'rest1RL'
+    anat: '/home/ubuntu/Documents/inputs/1_100/123117/anat/123117_3T_T1w_MPR1.nii.gz'
+    rest:
+        rest_1_rest: '/home/ubuntu/Documents/inputs/1_100/123117/rest/123117_3T_rfMRI_REST1_RL.nii.gz'
+-
+    subject_id: '123117'
+    unique_id: 'rest1LR'
+    anat: '/home/ubuntu/Documents/inputs/1_100/123117/anat/123117_3T_T1w_MPR1.nii.gz'
+    rest:
+        rest_1_rest: '/home/ubuntu/Documents/inputs/1_100/123117/rest/123117_3T_rfMRI_REST1_LR.nii.gz'
+-
+    subject_id: '123117'
+    unique_id: 'rest2RL'
+    anat: '/home/ubuntu/Documents/inputs/1_100/123117/anat/123117_3T_T1w_MPR1.nii.gz'
+    rest:
+        rest_1_rest: '/home/ubuntu/Documents/inputs/1_100/123117/rest/123117_3T_rfMRI_REST2_RL.nii.gz'
+-
+    subject_id: '123117'
+    unique_id: 'rest2LR'
+    anat: '/home/ubuntu/Documents/inputs/1_100/123117/anat/123117_3T_T1w_MPR1.nii.gz'
+    rest:
+        rest_1_rest: '/home/ubuntu/Documents/inputs/1_100/123117/rest/123117_3T_rfMRI_REST2_LR.nii.gz'
+-
+    subject_id: '103515'
+    unique_id: 'rest1RL'
+    anat: '/home/ubuntu/Documents/inputs/1_100/103515/anat/103515_3T_T1w_MPR1.nii.gz'
+    rest:
+        rest_1_rest: '/home/ubuntu/Documents/inputs/1_100/103515/rest/103515_3T_rfMRI_REST1_RL.nii.gz'
+-
+    subject_id: '103515'
+    unique_id: 'rest1LR'
+    anat: '/home/ubuntu/Documents/inputs/1_100/103515/anat/103515_3T_T1w_MPR1.nii.gz'
+    rest:
+        rest_1_rest: '/home/ubuntu/Documents/inputs/1_100/103515/rest/103515_3T_rfMRI_REST1_LR.nii.gz'
+-
+    subject_id: '103515'
+    unique_id: 'rest2RL'
+    anat: '/home/ubuntu/Documents/inputs/1_100/103515/anat/103515_3T_T1w_MPR1.nii.gz'
+    rest:
+        rest_1_rest: '/home/ubuntu/Documents/inputs/1_100/103515/rest/103515_3T_rfMRI_REST2_RL.nii.gz'
+-
+    subject_id: '103515'
+    unique_id: 'rest2LR'
+    anat: '/home/ubuntu/Documents/inputs/1_100/103515/anat/103515_3T_T1w_MPR1.nii.gz'
+    rest:
+        rest_1_rest: '/home/ubuntu/Documents/inputs/1_100/103515/rest/103515_3T_rfMRI_REST2_LR.nii.gz'
+-
+    subject_id: '135225'
+    unique_id: 'rest1RL'
+    anat: '/home/ubuntu/Documents/inputs/1_100/135225/anat/135225_3T_T1w_MPR1.nii.gz'
+    rest:
+        rest_1_rest: '/home/ubuntu/Documents/inputs/1_100/135225/rest/135225_3T_rfMRI_REST1_RL.nii.gz'
+-
+    subject_id: '135225'
+    unique_id: 'rest1LR'
+    anat: '/home/ubuntu/Documents/inputs/1_100/135225/anat/135225_3T_T1w_MPR1.nii.gz'
+    rest:
+        rest_1_rest: '/home/ubuntu/Documents/inputs/1_100/135225/rest/135225_3T_rfMRI_REST1_LR.nii.gz'
+-
+    subject_id: '135225'
+    unique_id: 'rest2RL'
+    anat: '/home/ubuntu/Documents/inputs/1_100/135225/anat/135225_3T_T1w_MPR1.nii.gz'
+    rest:
+        rest_1_rest: '/home/ubuntu/Documents/inputs/1_100/135225/rest/135225_3T_rfMRI_REST2_RL.nii.gz'
+-
+    subject_id: '135225'
+    unique_id: 'rest2LR'
+    anat: '/home/ubuntu/Documents/inputs/1_100/135225/anat/135225_3T_T1w_MPR1.nii.gz'
+    rest:
+        rest_1_rest: '/home/ubuntu/Documents/inputs/1_100/135225/rest/135225_3T_rfMRI_REST2_LR.nii.gz'
+-
+    subject_id: '120515'
+    unique_id: 'rest1RL'
+    anat: '/home/ubuntu/Documents/inputs/1_100/120515/anat/120515_3T_T1w_MPR1.nii.gz'
+    rest:
+        rest_1_rest: '/home/ubuntu/Documents/inputs/1_100/120515/rest/120515_3T_rfMRI_REST1_RL.nii.gz'
+-
+    subject_id: '120515'
+    unique_id: 'rest1LR'
+    anat: '/home/ubuntu/Documents/inputs/1_100/120515/anat/120515_3T_T1w_MPR1.nii.gz'
+    rest:
+        rest_1_rest: '/home/ubuntu/Documents/inputs/1_100/120515/rest/120515_3T_rfMRI_REST1_LR.nii.gz'
+-
+    subject_id: '120515'
+    unique_id: 'rest2RL'
+    anat: '/home/ubuntu/Documents/inputs/1_100/120515/anat/120515_3T_T1w_MPR1.nii.gz'
+    rest:
+        rest_1_rest: '/home/ubuntu/Documents/inputs/1_100/120515/rest/120515_3T_rfMRI_REST2_RL.nii.gz'
+-
+    subject_id: '120515'
+    unique_id: 'rest2LR'
+    anat: '/home/ubuntu/Documents/inputs/1_100/120515/anat/120515_3T_T1w_MPR1.nii.gz'
+    rest:
+        rest_1_rest: '/home/ubuntu/Documents/inputs/1_100/120515/rest/120515_3T_rfMRI_REST2_LR.nii.gz'
+-
+    subject_id: '117122'
+    unique_id: 'rest1RL'
+    anat: '/home/ubuntu/Documents/inputs/1_100/117122/anat/117122_3T_T1w_MPR1.nii.gz'
+    rest:
+        rest_1_rest: '/home/ubuntu/Documents/inputs/1_100/117122/rest/117122_3T_rfMRI_REST1_RL.nii.gz'
+-
+    subject_id: '117122'
+    unique_id: 'rest1LR'
+    anat: '/home/ubuntu/Documents/inputs/1_100/117122/anat/117122_3T_T1w_MPR1.nii.gz'
+    rest:
+        rest_1_rest: '/home/ubuntu/Documents/inputs/1_100/117122/rest/117122_3T_rfMRI_REST1_LR.nii.gz'
+-
+    subject_id: '117122'
+    unique_id: 'rest2RL'
+    anat: '/home/ubuntu/Documents/inputs/1_100/117122/anat/117122_3T_T1w_MPR1.nii.gz'
+    rest:
+        rest_1_rest: '/home/ubuntu/Documents/inputs/1_100/117122/rest/117122_3T_rfMRI_REST2_RL.nii.gz'
+-
+    subject_id: '117122'
+    unique_id: 'rest2LR'
+    anat: '/home/ubuntu/Documents/inputs/1_100/117122/anat/117122_3T_T1w_MPR1.nii.gz'
+    rest:
+        rest_1_rest: '/home/ubuntu/Documents/inputs/1_100/117122/rest/117122_3T_rfMRI_REST2_LR.nii.gz'
+-
+    subject_id: '128632'
+    unique_id: 'rest1RL'
+    anat: '/home/ubuntu/Documents/inputs/1_100/128632/anat/128632_3T_T1w_MPR1.nii.gz'
+    rest:
+        rest_1_rest: '/home/ubuntu/Documents/inputs/1_100/128632/rest/128632_3T_rfMRI_REST1_RL.nii.gz'
+-
+    subject_id: '128632'
+    unique_id: 'rest1LR'
+    anat: '/home/ubuntu/Documents/inputs/1_100/128632/anat/128632_3T_T1w_MPR1.nii.gz'
+    rest:
+        rest_1_rest: '/home/ubuntu/Documents/inputs/1_100/128632/rest/128632_3T_rfMRI_REST1_LR.nii.gz'
+-
+    subject_id: '128632'
+    unique_id: 'rest2RL'
+    anat: '/home/ubuntu/Documents/inputs/1_100/128632/anat/128632_3T_T1w_MPR1.nii.gz'
+    rest:
+        rest_1_rest: '/home/ubuntu/Documents/inputs/1_100/128632/rest/128632_3T_rfMRI_REST2_RL.nii.gz'
+-
+    subject_id: '128632'
+    unique_id: 'rest2LR'
+    anat: '/home/ubuntu/Documents/inputs/1_100/128632/anat/128632_3T_T1w_MPR1.nii.gz'
+    rest:
+        rest_1_rest: '/home/ubuntu/Documents/inputs/1_100/128632/rest/128632_3T_rfMRI_REST2_LR.nii.gz'
+-
+    subject_id: '124826'
+    unique_id: 'rest1RL'
+    anat: '/home/ubuntu/Documents/inputs/1_100/124826/anat/124826_3T_T1w_MPR1.nii.gz'
+    rest:
+        rest_1_rest: '/home/ubuntu/Documents/inputs/1_100/124826/rest/124826_3T_rfMRI_REST1_RL.nii.gz'
+-
+    subject_id: '124826'
+    unique_id: 'rest1LR'
+    anat: '/home/ubuntu/Documents/inputs/1_100/124826/anat/124826_3T_T1w_MPR1.nii.gz'
+    rest:
+        rest_1_rest: '/home/ubuntu/Documents/inputs/1_100/124826/rest/124826_3T_rfMRI_REST1_LR.nii.gz'
+-
+    subject_id: '124826'
+    unique_id: 'rest2RL'
+    anat: '/home/ubuntu/Documents/inputs/1_100/124826/anat/124826_3T_T1w_MPR1.nii.gz'
+    rest:
+        rest_1_rest: '/home/ubuntu/Documents/inputs/1_100/124826/rest/124826_3T_rfMRI_REST2_RL.nii.gz'
+-
+    subject_id: '124826'
+    unique_id: 'rest2LR'
+    anat: '/home/ubuntu/Documents/inputs/1_100/124826/anat/124826_3T_T1w_MPR1.nii.gz'
+    rest:
+        rest_1_rest: '/home/ubuntu/Documents/inputs/1_100/124826/rest/124826_3T_rfMRI_REST2_LR.nii.gz'
+-
+    subject_id: '137936'
+    unique_id: 'rest1RL'
+    anat: '/home/ubuntu/Documents/inputs/1_100/137936/anat/137936_3T_T1w_MPR1.nii.gz'
+    rest:
+        rest_1_rest: '/home/ubuntu/Documents/inputs/1_100/137936/rest/137936_3T_rfMRI_REST1_RL.nii.gz'
+-
+    subject_id: '137936'
+    unique_id: 'rest1LR'
+    anat: '/home/ubuntu/Documents/inputs/1_100/137936/anat/137936_3T_T1w_MPR1.nii.gz'
+    rest:
+        rest_1_rest: '/home/ubuntu/Documents/inputs/1_100/137936/rest/137936_3T_rfMRI_REST1_LR.nii.gz'
+-
+    subject_id: '137936'
+    unique_id: 'rest2RL'
+    anat: '/home/ubuntu/Documents/inputs/1_100/137936/anat/137936_3T_T1w_MPR1.nii.gz'
+    rest:
+        rest_1_rest: '/home/ubuntu/Documents/inputs/1_100/137936/rest/137936_3T_rfMRI_REST2_RL.nii.gz'
+-
+    subject_id: '137936'
+    unique_id: 'rest2LR'
+    anat: '/home/ubuntu/Documents/inputs/1_100/137936/anat/137936_3T_T1w_MPR1.nii.gz'
+    rest:
+        rest_1_rest: '/home/ubuntu/Documents/inputs/1_100/137936/rest/137936_3T_rfMRI_REST2_LR.nii.gz'
+-
+    subject_id: '114419'
+    unique_id: 'rest1RL'
+    anat: '/home/ubuntu/Documents/inputs/1_100/114419/anat/114419_3T_T1w_MPR1.nii.gz'
+    rest:
+        rest_1_rest: '/home/ubuntu/Documents/inputs/1_100/114419/rest/114419_3T_rfMRI_REST1_RL.nii.gz'
+-
+    subject_id: '114419'
+    unique_id: 'rest1LR'
+    anat: '/home/ubuntu/Documents/inputs/1_100/114419/anat/114419_3T_T1w_MPR1.nii.gz'
+    rest:
+        rest_1_rest: '/home/ubuntu/Documents/inputs/1_100/114419/rest/114419_3T_rfMRI_REST1_LR.nii.gz'
+-
+    subject_id: '114419'
+    unique_id: 'rest2RL'
+    anat: '/home/ubuntu/Documents/inputs/1_100/114419/anat/114419_3T_T1w_MPR1.nii.gz'
+    rest:
+        rest_1_rest: '/home/ubuntu/Documents/inputs/1_100/114419/rest/114419_3T_rfMRI_REST2_RL.nii.gz'
+-
+    subject_id: '114419'
+    unique_id: 'rest2LR'
+    anat: '/home/ubuntu/Documents/inputs/1_100/114419/anat/114419_3T_T1w_MPR1.nii.gz'
+    rest:
+        rest_1_rest: '/home/ubuntu/Documents/inputs/1_100/114419/rest/114419_3T_rfMRI_REST2_LR.nii.gz'
+-
+    subject_id: '133625'
+    unique_id: 'rest1RL'
+    anat: '/home/ubuntu/Documents/inputs/1_100/133625/anat/133625_3T_T1w_MPR1.nii.gz'
+    rest:
+        rest_1_rest: '/home/ubuntu/Documents/inputs/1_100/133625/rest/133625_3T_rfMRI_REST1_RL.nii.gz'
+-
+    subject_id: '133625'
+    unique_id: 'rest1LR'
+    anat: '/home/ubuntu/Documents/inputs/1_100/133625/anat/133625_3T_T1w_MPR1.nii.gz'
+    rest:
+        rest_1_rest: '/home/ubuntu/Documents/inputs/1_100/133625/rest/133625_3T_rfMRI_REST1_LR.nii.gz'
+-
+    subject_id: '133625'
+    unique_id: 'rest2RL'
+    anat: '/home/ubuntu/Documents/inputs/1_100/133625/anat/133625_3T_T1w_MPR1.nii.gz'
+    rest:
+        rest_1_rest: '/home/ubuntu/Documents/inputs/1_100/133625/rest/133625_3T_rfMRI_REST2_RL.nii.gz'
+-
+    subject_id: '133625'
+    unique_id: 'rest2LR'
+    anat: '/home/ubuntu/Documents/inputs/1_100/133625/anat/133625_3T_T1w_MPR1.nii.gz'
+    rest:
+        rest_1_rest: '/home/ubuntu/Documents/inputs/1_100/133625/rest/133625_3T_rfMRI_REST2_LR.nii.gz'
+-
+    subject_id: '121618'
+    unique_id: 'rest1RL'
+    anat: '/home/ubuntu/Documents/inputs/1_100/121618/anat/121618_3T_T1w_MPR1.nii.gz'
+    rest:
+        rest_1_rest: '/home/ubuntu/Documents/inputs/1_100/121618/rest/121618_3T_rfMRI_REST1_RL.nii.gz'
+-
+    subject_id: '121618'
+    unique_id: 'rest1LR'
+    anat: '/home/ubuntu/Documents/inputs/1_100/121618/anat/121618_3T_T1w_MPR1.nii.gz'
+    rest:
+        rest_1_rest: '/home/ubuntu/Documents/inputs/1_100/121618/rest/121618_3T_rfMRI_REST1_LR.nii.gz'
+-
+    subject_id: '121618'
+    unique_id: 'rest2RL'
+    anat: '/home/ubuntu/Documents/inputs/1_100/121618/anat/121618_3T_T1w_MPR1.nii.gz'
+    rest:
+        rest_1_rest: '/home/ubuntu/Documents/inputs/1_100/121618/rest/121618_3T_rfMRI_REST2_RL.nii.gz'
+-
+    subject_id: '121618'
+    unique_id: 'rest2LR'
+    anat: '/home/ubuntu/Documents/inputs/1_100/121618/anat/121618_3T_T1w_MPR1.nii.gz'
+    rest:
+        rest_1_rest: '/home/ubuntu/Documents/inputs/1_100/121618/rest/121618_3T_rfMRI_REST2_LR.nii.gz'
+-
+    subject_id: '120212'
+    unique_id: 'rest1RL'
+    anat: '/home/ubuntu/Documents/inputs/1_100/120212/anat/120212_3T_T1w_MPR1.nii.gz'
+    rest:
+        rest_1_rest: '/home/ubuntu/Documents/inputs/1_100/120212/rest/120212_3T_rfMRI_REST1_RL.nii.gz'
+-
+    subject_id: '120212'
+    unique_id: 'rest1LR'
+    anat: '/home/ubuntu/Documents/inputs/1_100/120212/anat/120212_3T_T1w_MPR1.nii.gz'
+    rest:
+        rest_1_rest: '/home/ubuntu/Documents/inputs/1_100/120212/rest/120212_3T_rfMRI_REST1_LR.nii.gz'
+-
+    subject_id: '120212'
+    unique_id: 'rest2RL'
+    anat: '/home/ubuntu/Documents/inputs/1_100/120212/anat/120212_3T_T1w_MPR1.nii.gz'
+    rest:
+        rest_1_rest: '/home/ubuntu/Documents/inputs/1_100/120212/rest/120212_3T_rfMRI_REST2_RL.nii.gz'
+-
+    subject_id: '120212'
+    unique_id: 'rest2LR'
+    anat: '/home/ubuntu/Documents/inputs/1_100/120212/anat/120212_3T_T1w_MPR1.nii.gz'
+    rest:
+        rest_1_rest: '/home/ubuntu/Documents/inputs/1_100/120212/rest/120212_3T_rfMRI_REST2_LR.nii.gz'
+-
+    subject_id: '106521'
+    unique_id: 'rest1RL'
+    anat: '/home/ubuntu/Documents/inputs/1_100/106521/anat/106521_3T_T1w_MPR1.nii.gz'
+    rest:
+        rest_1_rest: '/home/ubuntu/Documents/inputs/1_100/106521/rest/106521_3T_rfMRI_REST1_RL.nii.gz'
+-
+    subject_id: '106521'
+    unique_id: 'rest1LR'
+    anat: '/home/ubuntu/Documents/inputs/1_100/106521/anat/106521_3T_T1w_MPR1.nii.gz'
+    rest:
+        rest_1_rest: '/home/ubuntu/Documents/inputs/1_100/106521/rest/106521_3T_rfMRI_REST1_LR.nii.gz'
+-
+    subject_id: '106521'
+    unique_id: 'rest2RL'
+    anat: '/home/ubuntu/Documents/inputs/1_100/106521/anat/106521_3T_T1w_MPR1.nii.gz'
+    rest:
+        rest_1_rest: '/home/ubuntu/Documents/inputs/1_100/106521/rest/106521_3T_rfMRI_REST2_RL.nii.gz'
+-
+    subject_id: '106521'
+    unique_id: 'rest2LR'
+    anat: '/home/ubuntu/Documents/inputs/1_100/106521/anat/106521_3T_T1w_MPR1.nii.gz'
+    rest:
+        rest_1_rest: '/home/ubuntu/Documents/inputs/1_100/106521/rest/106521_3T_rfMRI_REST2_LR.nii.gz'
+-
+    subject_id: '106319'
+    unique_id: 'rest1RL'
+    anat: '/home/ubuntu/Documents/inputs/1_100/106319/anat/106319_3T_T1w_MPR1.nii.gz'
+    rest:
+        rest_1_rest: '/home/ubuntu/Documents/inputs/1_100/106319/rest/106319_3T_rfMRI_REST1_RL.nii.gz'
+-
+    subject_id: '106319'
+    unique_id: 'rest1LR'
+    anat: '/home/ubuntu/Documents/inputs/1_100/106319/anat/106319_3T_T1w_MPR1.nii.gz'
+    rest:
+        rest_1_rest: '/home/ubuntu/Documents/inputs/1_100/106319/rest/106319_3T_rfMRI_REST1_LR.nii.gz'
+-
+    subject_id: '106319'
+    unique_id: 'rest2RL'
+    anat: '/home/ubuntu/Documents/inputs/1_100/106319/anat/106319_3T_T1w_MPR1.nii.gz'
+    rest:
+        rest_1_rest: '/home/ubuntu/Documents/inputs/1_100/106319/rest/106319_3T_rfMRI_REST2_RL.nii.gz'
+-
+    subject_id: '106319'
+    unique_id: 'rest2LR'
+    anat: '/home/ubuntu/Documents/inputs/1_100/106319/anat/106319_3T_T1w_MPR1.nii.gz'
+    rest:
+        rest_1_rest: '/home/ubuntu/Documents/inputs/1_100/106319/rest/106319_3T_rfMRI_REST2_LR.nii.gz'
+-
+    subject_id: '137128'
+    unique_id: 'rest1RL'
+    anat: '/home/ubuntu/Documents/inputs/1_100/137128/anat/137128_3T_T1w_MPR1.nii.gz'
+    rest:
+        rest_1_rest: '/home/ubuntu/Documents/inputs/1_100/137128/rest/137128_3T_rfMRI_REST1_RL.nii.gz'
+-
+    subject_id: '137128'
+    unique_id: 'rest1LR'
+    anat: '/home/ubuntu/Documents/inputs/1_100/137128/anat/137128_3T_T1w_MPR1.nii.gz'
+    rest:
+        rest_1_rest: '/home/ubuntu/Documents/inputs/1_100/137128/rest/137128_3T_rfMRI_REST1_LR.nii.gz'
+-
+    subject_id: '137128'
+    unique_id: 'rest2RL'
+    anat: '/home/ubuntu/Documents/inputs/1_100/137128/anat/137128_3T_T1w_MPR1.nii.gz'
+    rest:
+        rest_1_rest: '/home/ubuntu/Documents/inputs/1_100/137128/rest/137128_3T_rfMRI_REST2_RL.nii.gz'
+-
+    subject_id: '137128'
+    unique_id: 'rest2LR'
+    anat: '/home/ubuntu/Documents/inputs/1_100/137128/anat/137128_3T_T1w_MPR1.nii.gz'
+    rest:
+        rest_1_rest: '/home/ubuntu/Documents/inputs/1_100/137128/rest/137128_3T_rfMRI_REST2_LR.nii.gz'
+-
+    subject_id: '102816'
+    unique_id: 'rest1RL'
+    anat: '/home/ubuntu/Documents/inputs/1_100/102816/anat/102816_3T_T1w_MPR1.nii.gz'
+    rest:
+        rest_1_rest: '/home/ubuntu/Documents/inputs/1_100/102816/rest/102816_3T_rfMRI_REST1_RL.nii.gz'
+-
+    subject_id: '102816'
+    unique_id: 'rest1LR'
+    anat: '/home/ubuntu/Documents/inputs/1_100/102816/anat/102816_3T_T1w_MPR1.nii.gz'
+    rest:
+        rest_1_rest: '/home/ubuntu/Documents/inputs/1_100/102816/rest/102816_3T_rfMRI_REST1_LR.nii.gz'
+-
+    subject_id: '102816'
+    unique_id: 'rest2RL'
+    anat: '/home/ubuntu/Documents/inputs/1_100/102816/anat/102816_3T_T1w_MPR1.nii.gz'
+    rest:
+        rest_1_rest: '/home/ubuntu/Documents/inputs/1_100/102816/rest/102816_3T_rfMRI_REST2_RL.nii.gz'
+-
+    subject_id: '102816'
+    unique_id: 'rest2LR'
+    anat: '/home/ubuntu/Documents/inputs/1_100/102816/anat/102816_3T_T1w_MPR1.nii.gz'
+    rest:
+        rest_1_rest: '/home/ubuntu/Documents/inputs/1_100/102816/rest/102816_3T_rfMRI_REST2_LR.nii.gz'
+-
+    subject_id: '136833'
+    unique_id: 'rest1RL'
+    anat: '/home/ubuntu/Documents/inputs/1_100/136833/anat/136833_3T_T1w_MPR1.nii.gz'
+    rest:
+        rest_1_rest: '/home/ubuntu/Documents/inputs/1_100/136833/rest/136833_3T_rfMRI_REST1_RL.nii.gz'
+-
+    subject_id: '136833'
+    unique_id: 'rest1LR'
+    anat: '/home/ubuntu/Documents/inputs/1_100/136833/anat/136833_3T_T1w_MPR1.nii.gz'
+    rest:
+        rest_1_rest: '/home/ubuntu/Documents/inputs/1_100/136833/rest/136833_3T_rfMRI_REST1_LR.nii.gz'
+-
+    subject_id: '136833'
+    unique_id: 'rest2RL'
+    anat: '/home/ubuntu/Documents/inputs/1_100/136833/anat/136833_3T_T1w_MPR1.nii.gz'
+    rest:
+        rest_1_rest: '/home/ubuntu/Documents/inputs/1_100/136833/rest/136833_3T_rfMRI_REST2_RL.nii.gz'
+-
+    subject_id: '136833'
+    unique_id: 'rest2LR'
+    anat: '/home/ubuntu/Documents/inputs/1_100/136833/anat/136833_3T_T1w_MPR1.nii.gz'
+    rest:
+        rest_1_rest: '/home/ubuntu/Documents/inputs/1_100/136833/rest/136833_3T_rfMRI_REST2_LR.nii.gz'
+-
+    subject_id: '107422'
+    unique_id: 'rest1RL'
+    anat: '/home/ubuntu/Documents/inputs/1_100/107422/anat/107422_3T_T1w_MPR1.nii.gz'
+    rest:
+        rest_1_rest: '/home/ubuntu/Documents/inputs/1_100/107422/rest/107422_3T_rfMRI_REST1_RL.nii.gz'
+-
+    subject_id: '107422'
+    unique_id: 'rest1LR'
+    anat: '/home/ubuntu/Documents/inputs/1_100/107422/anat/107422_3T_T1w_MPR1.nii.gz'
+    rest:
+        rest_1_rest: '/home/ubuntu/Documents/inputs/1_100/107422/rest/107422_3T_rfMRI_REST1_LR.nii.gz'
+-
+    subject_id: '107422'
+    unique_id: 'rest2RL'
+    anat: '/home/ubuntu/Documents/inputs/1_100/107422/anat/107422_3T_T1w_MPR1.nii.gz'
+    rest:
+        rest_1_rest: '/home/ubuntu/Documents/inputs/1_100/107422/rest/107422_3T_rfMRI_REST2_RL.nii.gz'
+-
+    subject_id: '107422'
+    unique_id: 'rest2LR'
+    anat: '/home/ubuntu/Documents/inputs/1_100/107422/anat/107422_3T_T1w_MPR1.nii.gz'
+    rest:
+        rest_1_rest: '/home/ubuntu/Documents/inputs/1_100/107422/rest/107422_3T_rfMRI_REST2_LR.nii.gz'
+-
+    subject_id: '101915'
+    unique_id: 'rest1RL'
+    anat: '/home/ubuntu/Documents/inputs/1_100/101915/anat/101915_3T_T1w_MPR1.nii.gz'
+    rest:
+        rest_1_rest: '/home/ubuntu/Documents/inputs/1_100/101915/rest/101915_3T_rfMRI_REST1_RL.nii.gz'
+-
+    subject_id: '101915'
+    unique_id: 'rest1LR'
+    anat: '/home/ubuntu/Documents/inputs/1_100/101915/anat/101915_3T_T1w_MPR1.nii.gz'
+    rest:
+        rest_1_rest: '/home/ubuntu/Documents/inputs/1_100/101915/rest/101915_3T_rfMRI_REST1_LR.nii.gz'
+-
+    subject_id: '101915'
+    unique_id: 'rest2RL'
+    anat: '/home/ubuntu/Documents/inputs/1_100/101915/anat/101915_3T_T1w_MPR1.nii.gz'
+    rest:
+        rest_1_rest: '/home/ubuntu/Documents/inputs/1_100/101915/rest/101915_3T_rfMRI_REST2_RL.nii.gz'
+-
+    subject_id: '101915'
+    unique_id: 'rest2LR'
+    anat: '/home/ubuntu/Documents/inputs/1_100/101915/anat/101915_3T_T1w_MPR1.nii.gz'
+    rest:
+        rest_1_rest: '/home/ubuntu/Documents/inputs/1_100/101915/rest/101915_3T_rfMRI_REST2_LR.nii.gz'
+-
+    subject_id: '102008'
+    unique_id: 'rest1RL'
+    anat: '/home/ubuntu/Documents/inputs/1_100/102008/anat/102008_3T_T1w_MPR1.nii.gz'
+    rest:
+        rest_1_rest: '/home/ubuntu/Documents/inputs/1_100/102008/rest/102008_3T_rfMRI_REST1_RL.nii.gz'
+-
+    subject_id: '102008'
+    unique_id: 'rest1LR'
+    anat: '/home/ubuntu/Documents/inputs/1_100/102008/anat/102008_3T_T1w_MPR1.nii.gz'
+    rest:
+        rest_1_rest: '/home/ubuntu/Documents/inputs/1_100/102008/rest/102008_3T_rfMRI_REST1_LR.nii.gz'
+-
+    subject_id: '102008'
+    unique_id: 'rest2RL'
+    anat: '/home/ubuntu/Documents/inputs/1_100/102008/anat/102008_3T_T1w_MPR1.nii.gz'
+    rest:
+        rest_1_rest: '/home/ubuntu/Documents/inputs/1_100/102008/rest/102008_3T_rfMRI_REST2_RL.nii.gz'
+-
+    subject_id: '102008'
+    unique_id: 'rest2LR'
+    anat: '/home/ubuntu/Documents/inputs/1_100/102008/anat/102008_3T_T1w_MPR1.nii.gz'
+    rest:
+        rest_1_rest: '/home/ubuntu/Documents/inputs/1_100/102008/rest/102008_3T_rfMRI_REST2_LR.nii.gz'
+-
+    subject_id: '116120'
+    unique_id: 'rest1RL'
+    anat: '/home/ubuntu/Documents/inputs/1_100/116120/anat/116120_3T_T1w_MPR1.nii.gz'
+    rest:
+        rest_1_rest: '/home/ubuntu/Documents/inputs/1_100/116120/rest/116120_3T_rfMRI_REST1_RL.nii.gz'
+-
+    subject_id: '121315'
+    unique_id: 'rest1RL'
+    anat: '/home/ubuntu/Documents/inputs/1_100/121315/anat/121315_3T_T1w_MPR1.nii.gz'
+    rest:
+        rest_1_rest: '/home/ubuntu/Documents/inputs/1_100/121315/rest/121315_3T_rfMRI_REST1_RL.nii.gz'
+-
+    subject_id: '121315'
+    unique_id: 'rest1LR'
+    anat: '/home/ubuntu/Documents/inputs/1_100/121315/anat/121315_3T_T1w_MPR1.nii.gz'
+    rest:
+        rest_1_rest: '/home/ubuntu/Documents/inputs/1_100/121315/rest/121315_3T_rfMRI_REST1_LR.nii.gz'
+-
+    subject_id: '103111'
+    unique_id: 'rest1RL'
+    anat: '/home/ubuntu/Documents/inputs/1_100/103111/anat/103111_3T_T1w_MPR1.nii.gz'
+    rest:
+        rest_1_rest: '/home/ubuntu/Documents/inputs/1_100/103111/rest/103111_3T_rfMRI_REST1_RL.nii.gz'
+-
+    subject_id: '103111'
+    unique_id: 'rest1LR'
+    anat: '/home/ubuntu/Documents/inputs/1_100/103111/anat/103111_3T_T1w_MPR1.nii.gz'
+    rest:
+        rest_1_rest: '/home/ubuntu/Documents/inputs/1_100/103111/rest/103111_3T_rfMRI_REST1_LR.nii.gz'
+-
+    subject_id: '103111'
+    unique_id: 'rest2RL'
+    anat: '/home/ubuntu/Documents/inputs/1_100/103111/anat/103111_3T_T1w_MPR1.nii.gz'
+    rest:
+        rest_1_rest: '/home/ubuntu/Documents/inputs/1_100/103111/rest/103111_3T_rfMRI_REST2_RL.nii.gz'
+-
+    subject_id: '103111'
+    unique_id: 'rest2LR'
+    anat: '/home/ubuntu/Documents/inputs/1_100/103111/anat/103111_3T_T1w_MPR1.nii.gz'
+    rest:
+        rest_1_rest: '/home/ubuntu/Documents/inputs/1_100/103111/rest/103111_3T_rfMRI_REST2_LR.nii.gz'
+-
+    subject_id: '124422'
+    unique_id: 'rest1RL'
+    anat: '/home/ubuntu/Documents/inputs/1_100/124422/anat/124422_3T_T1w_MPR1.nii.gz'
+    rest:
+        rest_1_rest: '/home/ubuntu/Documents/inputs/1_100/124422/rest/124422_3T_rfMRI_REST1_RL.nii.gz'
+-
+    subject_id: '124422'
+    unique_id: 'rest1LR'
+    anat: '/home/ubuntu/Documents/inputs/1_100/124422/anat/124422_3T_T1w_MPR1.nii.gz'
+    rest:
+        rest_1_rest: '/home/ubuntu/Documents/inputs/1_100/124422/rest/124422_3T_rfMRI_REST1_LR.nii.gz'
+-
+    subject_id: '124422'
+    unique_id: 'rest2RL'
+    anat: '/home/ubuntu/Documents/inputs/1_100/124422/anat/124422_3T_T1w_MPR1.nii.gz'
+    rest:
+        rest_1_rest: '/home/ubuntu/Documents/inputs/1_100/124422/rest/124422_3T_rfMRI_REST2_RL.nii.gz'
+-
+    subject_id: '124422'
+    unique_id: 'rest2LR'
+    anat: '/home/ubuntu/Documents/inputs/1_100/124422/anat/124422_3T_T1w_MPR1.nii.gz'
+    rest:
+        rest_1_rest: '/home/ubuntu/Documents/inputs/1_100/124422/rest/124422_3T_rfMRI_REST2_LR.nii.gz'
+-
+    subject_id: '113821'
+    unique_id: 'rest1RL'
+    anat: '/home/ubuntu/Documents/inputs/1_100/113821/anat/113821_3T_T1w_MPR1.nii.gz'
+    rest:
+        rest_1_rest: '/home/ubuntu/Documents/inputs/1_100/113821/rest/113821_3T_rfMRI_REST1_RL.nii.gz'
+-
+    subject_id: '113821'
+    unique_id: 'rest1LR'
+    anat: '/home/ubuntu/Documents/inputs/1_100/113821/anat/113821_3T_T1w_MPR1.nii.gz'
+    rest:
+        rest_1_rest: '/home/ubuntu/Documents/inputs/1_100/113821/rest/113821_3T_rfMRI_REST1_LR.nii.gz'
+-
+    subject_id: '128127'
+    unique_id: 'rest1RL'
+    anat: '/home/ubuntu/Documents/inputs/1_100/128127/anat/128127_3T_T1w_MPR1.nii.gz'
+    rest:
+        rest_1_rest: '/home/ubuntu/Documents/inputs/1_100/128127/rest/128127_3T_rfMRI_REST1_RL.nii.gz'
+-
+    subject_id: '128127'
+    unique_id: 'rest1LR'
+    anat: '/home/ubuntu/Documents/inputs/1_100/128127/anat/128127_3T_T1w_MPR1.nii.gz'
+    rest:
+        rest_1_rest: '/home/ubuntu/Documents/inputs/1_100/128127/rest/128127_3T_rfMRI_REST1_LR.nii.gz'
+-
+    subject_id: '128127'
+    unique_id: 'rest2RL'
+    anat: '/home/ubuntu/Documents/inputs/1_100/128127/anat/128127_3T_T1w_MPR1.nii.gz'
+    rest:
+        rest_1_rest: '/home/ubuntu/Documents/inputs/1_100/128127/rest/128127_3T_rfMRI_REST2_RL.nii.gz'
+-
+    subject_id: '128127'
+    unique_id: 'rest2LR'
+    anat: '/home/ubuntu/Documents/inputs/1_100/128127/anat/128127_3T_T1w_MPR1.nii.gz'
+    rest:
+        rest_1_rest: '/home/ubuntu/Documents/inputs/1_100/128127/rest/128127_3T_rfMRI_REST2_LR.nii.gz'
+-
+    subject_id: '139233'
+    unique_id: 'rest1RL'
+    anat: '/home/ubuntu/Documents/inputs/1_100/139233/anat/139233_3T_T1w_MPR1.nii.gz'
+    rest:
+        rest_1_rest: '/home/ubuntu/Documents/inputs/1_100/139233/rest/139233_3T_rfMRI_REST1_RL.nii.gz'
+-
+    subject_id: '139233'
+    unique_id: 'rest1LR'
+    anat: '/home/ubuntu/Documents/inputs/1_100/139233/anat/139233_3T_T1w_MPR1.nii.gz'
+    rest:
+        rest_1_rest: '/home/ubuntu/Documents/inputs/1_100/139233/rest/139233_3T_rfMRI_REST1_LR.nii.gz'
+-
+    subject_id: '139233'
+    unique_id: 'rest2RL'
+    anat: '/home/ubuntu/Documents/inputs/1_100/139233/anat/139233_3T_T1w_MPR1.nii.gz'
+    rest:
+        rest_1_rest: '/home/ubuntu/Documents/inputs/1_100/139233/rest/139233_3T_rfMRI_REST2_RL.nii.gz'
+-
+    subject_id: '139233'
+    unique_id: 'rest2LR'
+    anat: '/home/ubuntu/Documents/inputs/1_100/139233/anat/139233_3T_T1w_MPR1.nii.gz'
+    rest:
+        rest_1_rest: '/home/ubuntu/Documents/inputs/1_100/139233/rest/139233_3T_rfMRI_REST2_LR.nii.gz'
+-
+    subject_id: '122317'
+    unique_id: 'rest1RL'
+    anat: '/home/ubuntu/Documents/inputs/1_100/122317/anat/122317_3T_T1w_MPR1.nii.gz'
+    rest:
+        rest_1_rest: '/home/ubuntu/Documents/inputs/1_100/122317/rest/122317_3T_rfMRI_REST1_RL.nii.gz'
+-
+    subject_id: '122317'
+    unique_id: 'rest1LR'
+    anat: '/home/ubuntu/Documents/inputs/1_100/122317/anat/122317_3T_T1w_MPR1.nii.gz'
+    rest:
+        rest_1_rest: '/home/ubuntu/Documents/inputs/1_100/122317/rest/122317_3T_rfMRI_REST1_LR.nii.gz'
+-
+    subject_id: '122317'
+    unique_id: 'rest2RL'
+    anat: '/home/ubuntu/Documents/inputs/1_100/122317/anat/122317_3T_T1w_MPR1.nii.gz'
+    rest:
+        rest_1_rest: '/home/ubuntu/Documents/inputs/1_100/122317/rest/122317_3T_rfMRI_REST2_RL.nii.gz'
+-
+    subject_id: '122317'
+    unique_id: 'rest2LR'
+    anat: '/home/ubuntu/Documents/inputs/1_100/122317/anat/122317_3T_T1w_MPR1.nii.gz'
+    rest:
+        rest_1_rest: '/home/ubuntu/Documents/inputs/1_100/122317/rest/122317_3T_rfMRI_REST2_LR.nii.gz'
+-
+    subject_id: '138231'
+    unique_id: 'rest1RL'
+    anat: '/home/ubuntu/Documents/inputs/1_100/138231/anat/138231_3T_T1w_MPR1.nii.gz'
+    rest:
+        rest_1_rest: '/home/ubuntu/Documents/inputs/1_100/138231/rest/138231_3T_rfMRI_REST1_RL.nii.gz'
+-
+    subject_id: '138231'
+    unique_id: 'rest1LR'
+    anat: '/home/ubuntu/Documents/inputs/1_100/138231/anat/138231_3T_T1w_MPR1.nii.gz'
+    rest:
+        rest_1_rest: '/home/ubuntu/Documents/inputs/1_100/138231/rest/138231_3T_rfMRI_REST1_LR.nii.gz'
+-
+    subject_id: '138231'
+    unique_id: 'rest2RL'
+    anat: '/home/ubuntu/Documents/inputs/1_100/138231/anat/138231_3T_T1w_MPR1.nii.gz'
+    rest:
+        rest_1_rest: '/home/ubuntu/Documents/inputs/1_100/138231/rest/138231_3T_rfMRI_REST2_RL.nii.gz'
+-
+    subject_id: '138231'
+    unique_id: 'rest2LR'
+    anat: '/home/ubuntu/Documents/inputs/1_100/138231/anat/138231_3T_T1w_MPR1.nii.gz'
+    rest:
+        rest_1_rest: '/home/ubuntu/Documents/inputs/1_100/138231/rest/138231_3T_rfMRI_REST2_LR.nii.gz'
+-
+    subject_id: '130922'
+    unique_id: 'rest1RL'
+    anat: '/home/ubuntu/Documents/inputs/1_100/130922/anat/130922_3T_T1w_MPR1.nii.gz'
+    rest:
+        rest_1_rest: '/home/ubuntu/Documents/inputs/1_100/130922/rest/130922_3T_rfMRI_REST1_RL.nii.gz'
+-
+    subject_id: '130922'
+    unique_id: 'rest1LR'
+    anat: '/home/ubuntu/Documents/inputs/1_100/130922/anat/130922_3T_T1w_MPR1.nii.gz'
+    rest:
+        rest_1_rest: '/home/ubuntu/Documents/inputs/1_100/130922/rest/130922_3T_rfMRI_REST1_LR.nii.gz'
+-
+    subject_id: '130922'
+    unique_id: 'rest2RL'
+    anat: '/home/ubuntu/Documents/inputs/1_100/130922/anat/130922_3T_T1w_MPR1.nii.gz'
+    rest:
+        rest_1_rest: '/home/ubuntu/Documents/inputs/1_100/130922/rest/130922_3T_rfMRI_REST2_RL.nii.gz'
+-
+    subject_id: '130922'
+    unique_id: 'rest2LR'
+    anat: '/home/ubuntu/Documents/inputs/1_100/130922/anat/130922_3T_T1w_MPR1.nii.gz'
+    rest:
+        rest_1_rest: '/home/ubuntu/Documents/inputs/1_100/130922/rest/130922_3T_rfMRI_REST2_LR.nii.gz'
+-
+    subject_id: '136227'
+    unique_id: 'rest1RL'
+    anat: '/home/ubuntu/Documents/inputs/1_100/136227/anat/136227_3T_T1w_MPR1.nii.gz'
+    rest:
+        rest_1_rest: '/home/ubuntu/Documents/inputs/1_100/136227/rest/136227_3T_rfMRI_REST1_RL.nii.gz'
+-
+    subject_id: '136227'
+    unique_id: 'rest1LR'
+    anat: '/home/ubuntu/Documents/inputs/1_100/136227/anat/136227_3T_T1w_MPR1.nii.gz'
+    rest:
+        rest_1_rest: '/home/ubuntu/Documents/inputs/1_100/136227/rest/136227_3T_rfMRI_REST1_LR.nii.gz'
+-
+    subject_id: '136227'
+    unique_id: 'rest2RL'
+    anat: '/home/ubuntu/Documents/inputs/1_100/136227/anat/136227_3T_T1w_MPR1.nii.gz'
+    rest:
+        rest_1_rest: '/home/ubuntu/Documents/inputs/1_100/136227/rest/136227_3T_rfMRI_REST2_RL.nii.gz'
+-
+    subject_id: '136227'
+    unique_id: 'rest2LR'
+    anat: '/home/ubuntu/Documents/inputs/1_100/136227/anat/136227_3T_T1w_MPR1.nii.gz'
+    rest:
+        rest_1_rest: '/home/ubuntu/Documents/inputs/1_100/136227/rest/136227_3T_rfMRI_REST2_LR.nii.gz'
+-
+    subject_id: '130013'
+    unique_id: 'rest1RL'
+    anat: '/home/ubuntu/Documents/inputs/1_100/130013/anat/130013_3T_T1w_MPR1.nii.gz'
+    rest:
+        rest_1_rest: '/home/ubuntu/Documents/inputs/1_100/130013/rest/130013_3T_rfMRI_REST1_RL.nii.gz'
+-
+    subject_id: '130013'
+    unique_id: 'rest1LR'
+    anat: '/home/ubuntu/Documents/inputs/1_100/130013/anat/130013_3T_T1w_MPR1.nii.gz'
+    rest:
+        rest_1_rest: '/home/ubuntu/Documents/inputs/1_100/130013/rest/130013_3T_rfMRI_REST1_LR.nii.gz'
+-
+    subject_id: '130013'
+    unique_id: 'rest2RL'
+    anat: '/home/ubuntu/Documents/inputs/1_100/130013/anat/130013_3T_T1w_MPR1.nii.gz'
+    rest:
+        rest_1_rest: '/home/ubuntu/Documents/inputs/1_100/130013/rest/130013_3T_rfMRI_REST2_RL.nii.gz'
+-
+    subject_id: '130013'
+    unique_id: 'rest2LR'
+    anat: '/home/ubuntu/Documents/inputs/1_100/130013/anat/130013_3T_T1w_MPR1.nii.gz'
+    rest:
+        rest_1_rest: '/home/ubuntu/Documents/inputs/1_100/130013/rest/130013_3T_rfMRI_REST2_LR.nii.gz'
+-
+    subject_id: '111716'
+    unique_id: 'rest1RL'
+    anat: '/home/ubuntu/Documents/inputs/1_100/111716/anat/111716_3T_T1w_MPR1.nii.gz'
+    rest:
+        rest_1_rest: '/home/ubuntu/Documents/inputs/1_100/111716/rest/111716_3T_rfMRI_REST1_RL.nii.gz'
+-
+    subject_id: '111716'
+    unique_id: 'rest1LR'
+    anat: '/home/ubuntu/Documents/inputs/1_100/111716/anat/111716_3T_T1w_MPR1.nii.gz'
+    rest:
+        rest_1_rest: '/home/ubuntu/Documents/inputs/1_100/111716/rest/111716_3T_rfMRI_REST1_LR.nii.gz'
+-
+    subject_id: '111716'
+    unique_id: 'rest2RL'
+    anat: '/home/ubuntu/Documents/inputs/1_100/111716/anat/111716_3T_T1w_MPR1.nii.gz'
+    rest:
+        rest_1_rest: '/home/ubuntu/Documents/inputs/1_100/111716/rest/111716_3T_rfMRI_REST2_RL.nii.gz'
+-
+    subject_id: '111716'
+    unique_id: 'rest2LR'
+    anat: '/home/ubuntu/Documents/inputs/1_100/111716/anat/111716_3T_T1w_MPR1.nii.gz'
+    rest:
+        rest_1_rest: '/home/ubuntu/Documents/inputs/1_100/111716/rest/111716_3T_rfMRI_REST2_LR.nii.gz'
+-
+    subject_id: '133019'
+    unique_id: 'rest1RL'
+    anat: '/home/ubuntu/Documents/inputs/1_100/133019/anat/133019_3T_T1w_MPR1.nii.gz'
+    rest:
+        rest_1_rest: '/home/ubuntu/Documents/inputs/1_100/133019/rest/133019_3T_rfMRI_REST1_RL.nii.gz'
+-
+    subject_id: '133019'
+    unique_id: 'rest1LR'
+    anat: '/home/ubuntu/Documents/inputs/1_100/133019/anat/133019_3T_T1w_MPR1.nii.gz'
+    rest:
+        rest_1_rest: '/home/ubuntu/Documents/inputs/1_100/133019/rest/133019_3T_rfMRI_REST1_LR.nii.gz'
+-
+    subject_id: '133019'
+    unique_id: 'rest2RL'
+    anat: '/home/ubuntu/Documents/inputs/1_100/133019/anat/133019_3T_T1w_MPR1.nii.gz'
+    rest:
+        rest_1_rest: '/home/ubuntu/Documents/inputs/1_100/133019/rest/133019_3T_rfMRI_REST2_RL.nii.gz'
+-
+    subject_id: '133019'
+    unique_id: 'rest2LR'
+    anat: '/home/ubuntu/Documents/inputs/1_100/133019/anat/133019_3T_T1w_MPR1.nii.gz'
+    rest:
+        rest_1_rest: '/home/ubuntu/Documents/inputs/1_100/133019/rest/133019_3T_rfMRI_REST2_LR.nii.gz'
+-
+    subject_id: '113215'
+    unique_id: 'rest1RL'
+    anat: '/home/ubuntu/Documents/inputs/1_100/113215/anat/113215_3T_T1w_MPR1.nii.gz'
+    rest:
+        rest_1_rest: '/home/ubuntu/Documents/inputs/1_100/113215/rest/113215_3T_rfMRI_REST1_RL.nii.gz'
+-
+    subject_id: '113215'
+    unique_id: 'rest1LR'
+    anat: '/home/ubuntu/Documents/inputs/1_100/113215/anat/113215_3T_T1w_MPR1.nii.gz'
+    rest:
+        rest_1_rest: '/home/ubuntu/Documents/inputs/1_100/113215/rest/113215_3T_rfMRI_REST1_LR.nii.gz'
+-
+    subject_id: '113215'
+    unique_id: 'rest2RL'
+    anat: '/home/ubuntu/Documents/inputs/1_100/113215/anat/113215_3T_T1w_MPR1.nii.gz'
+    rest:
+        rest_1_rest: '/home/ubuntu/Documents/inputs/1_100/113215/rest/113215_3T_rfMRI_REST2_RL.nii.gz'
+-
+    subject_id: '113215'
+    unique_id: 'rest2LR'
+    anat: '/home/ubuntu/Documents/inputs/1_100/113215/anat/113215_3T_T1w_MPR1.nii.gz'
+    rest:
+        rest_1_rest: '/home/ubuntu/Documents/inputs/1_100/113215/rest/113215_3T_rfMRI_REST2_LR.nii.gz'
+-
+    subject_id: '113619'
+    unique_id: 'rest1RL'
+    anat: '/home/ubuntu/Documents/inputs/1_100/113619/anat/113619_3T_T1w_MPR1.nii.gz'
+    rest:
+        rest_1_rest: '/home/ubuntu/Documents/inputs/1_100/113619/rest/113619_3T_rfMRI_REST1_RL.nii.gz'
+-
+    subject_id: '113619'
+    unique_id: 'rest1LR'
+    anat: '/home/ubuntu/Documents/inputs/1_100/113619/anat/113619_3T_T1w_MPR1.nii.gz'
+    rest:
+        rest_1_rest: '/home/ubuntu/Documents/inputs/1_100/113619/rest/113619_3T_rfMRI_REST1_LR.nii.gz'
+-
+    subject_id: '113619'
+    unique_id: 'rest2RL'
+    anat: '/home/ubuntu/Documents/inputs/1_100/113619/anat/113619_3T_T1w_MPR1.nii.gz'
+    rest:
+        rest_1_rest: '/home/ubuntu/Documents/inputs/1_100/113619/rest/113619_3T_rfMRI_REST2_RL.nii.gz'
+-
+    subject_id: '113619'
+    unique_id: 'rest2LR'
+    anat: '/home/ubuntu/Documents/inputs/1_100/113619/anat/113619_3T_T1w_MPR1.nii.gz'
+    rest:
+        rest_1_rest: '/home/ubuntu/Documents/inputs/1_100/113619/rest/113619_3T_rfMRI_REST2_LR.nii.gz'
+-
+    subject_id: '105115'
+    unique_id: 'rest1RL'
+    anat: '/home/ubuntu/Documents/inputs/1_100/105115/anat/105115_3T_T1w_MPR1.nii.gz'
+    rest:
+        rest_1_rest: '/home/ubuntu/Documents/inputs/1_100/105115/rest/105115_3T_rfMRI_REST1_RL.nii.gz'
+-
+    subject_id: '105115'
+    unique_id: 'rest1LR'
+    anat: '/home/ubuntu/Documents/inputs/1_100/105115/anat/105115_3T_T1w_MPR1.nii.gz'
+    rest:
+        rest_1_rest: '/home/ubuntu/Documents/inputs/1_100/105115/rest/105115_3T_rfMRI_REST1_LR.nii.gz'
+-
+    subject_id: '105115'
+    unique_id: 'rest2RL'
+    anat: '/home/ubuntu/Documents/inputs/1_100/105115/anat/105115_3T_T1w_MPR1.nii.gz'
+    rest:
+        rest_1_rest: '/home/ubuntu/Documents/inputs/1_100/105115/rest/105115_3T_rfMRI_REST2_RL.nii.gz'
+-
+    subject_id: '105115'
+    unique_id: 'rest2LR'
+    anat: '/home/ubuntu/Documents/inputs/1_100/105115/anat/105115_3T_T1w_MPR1.nii.gz'
+    rest:
+        rest_1_rest: '/home/ubuntu/Documents/inputs/1_100/105115/rest/105115_3T_rfMRI_REST2_LR.nii.gz'
+-
+    subject_id: '130316'
+    unique_id: 'rest1RL'
+    anat: '/home/ubuntu/Documents/inputs/1_100/130316/anat/130316_3T_T1w_MPR1.nii.gz'
+    rest:
+        rest_1_rest: '/home/ubuntu/Documents/inputs/1_100/130316/rest/130316_3T_rfMRI_REST1_RL.nii.gz'
+-
+    subject_id: '130316'
+    unique_id: 'rest1LR'
+    anat: '/home/ubuntu/Documents/inputs/1_100/130316/anat/130316_3T_T1w_MPR1.nii.gz'
+    rest:
+        rest_1_rest: '/home/ubuntu/Documents/inputs/1_100/130316/rest/130316_3T_rfMRI_REST1_LR.nii.gz'
+-
+    subject_id: '130316'
+    unique_id: 'rest2RL'
+    anat: '/home/ubuntu/Documents/inputs/1_100/130316/anat/130316_3T_T1w_MPR1.nii.gz'
+    rest:
+        rest_1_rest: '/home/ubuntu/Documents/inputs/1_100/130316/rest/130316_3T_rfMRI_REST2_RL.nii.gz'
+-
+    subject_id: '130316'
+    unique_id: 'rest2LR'
+    anat: '/home/ubuntu/Documents/inputs/1_100/130316/anat/130316_3T_T1w_MPR1.nii.gz'
+    rest:
+        rest_1_rest: '/home/ubuntu/Documents/inputs/1_100/130316/rest/130316_3T_rfMRI_REST2_LR.nii.gz'
+-
+    subject_id: '118528'
+    unique_id: 'rest1RL'
+    anat: '/home/ubuntu/Documents/inputs/1_100/118528/anat/118528_3T_T1w_MPR1.nii.gz'
+    rest:
+        rest_1_rest: '/home/ubuntu/Documents/inputs/1_100/118528/rest/118528_3T_rfMRI_REST1_RL.nii.gz'
+-
+    subject_id: '118528'
+    unique_id: 'rest1LR'
+    anat: '/home/ubuntu/Documents/inputs/1_100/118528/anat/118528_3T_T1w_MPR1.nii.gz'
+    rest:
+        rest_1_rest: '/home/ubuntu/Documents/inputs/1_100/118528/rest/118528_3T_rfMRI_REST1_LR.nii.gz'
+-
+    subject_id: '118528'
+    unique_id: 'rest2RL'
+    anat: '/home/ubuntu/Documents/inputs/1_100/118528/anat/118528_3T_T1w_MPR1.nii.gz'
+    rest:
+        rest_1_rest: '/home/ubuntu/Documents/inputs/1_100/118528/rest/118528_3T_rfMRI_REST2_RL.nii.gz'
+-
+    subject_id: '118528'
+    unique_id: 'rest2LR'
+    anat: '/home/ubuntu/Documents/inputs/1_100/118528/anat/118528_3T_T1w_MPR1.nii.gz'
+    rest:
+        rest_1_rest: '/home/ubuntu/Documents/inputs/1_100/118528/rest/118528_3T_rfMRI_REST2_LR.nii.gz'
+-
+    subject_id: '135932'
+    unique_id: 'rest1RL'
+    anat: '/home/ubuntu/Documents/inputs/1_100/135932/anat/135932_3T_T1w_MPR1.nii.gz'
+    rest:
+        rest_1_rest: '/home/ubuntu/Documents/inputs/1_100/135932/rest/135932_3T_rfMRI_REST1_RL.nii.gz'
+-
+    subject_id: '135932'
+    unique_id: 'rest1LR'
+    anat: '/home/ubuntu/Documents/inputs/1_100/135932/anat/135932_3T_T1w_MPR1.nii.gz'
+    rest:
+        rest_1_rest: '/home/ubuntu/Documents/inputs/1_100/135932/rest/135932_3T_rfMRI_REST1_LR.nii.gz'
+-
+    subject_id: '135932'
+    unique_id: 'rest2RL'
+    anat: '/home/ubuntu/Documents/inputs/1_100/135932/anat/135932_3T_T1w_MPR1.nii.gz'
+    rest:
+        rest_1_rest: '/home/ubuntu/Documents/inputs/1_100/135932/rest/135932_3T_rfMRI_REST2_RL.nii.gz'
+-
+    subject_id: '135932'
+    unique_id: 'rest2LR'
+    anat: '/home/ubuntu/Documents/inputs/1_100/135932/anat/135932_3T_T1w_MPR1.nii.gz'
+    rest:
+        rest_1_rest: '/home/ubuntu/Documents/inputs/1_100/135932/rest/135932_3T_rfMRI_REST2_LR.nii.gz'
+-
+    subject_id: '107321'
+    unique_id: 'rest1RL'
+    anat: '/home/ubuntu/Documents/inputs/1_100/107321/anat/107321_3T_T1w_MPR1.nii.gz'
+    rest:
+        rest_1_rest: '/home/ubuntu/Documents/inputs/1_100/107321/rest/107321_3T_rfMRI_REST1_RL.nii.gz'
+-
+    subject_id: '107321'
+    unique_id: 'rest1LR'
+    anat: '/home/ubuntu/Documents/inputs/1_100/107321/anat/107321_3T_T1w_MPR1.nii.gz'
+    rest:
+        rest_1_rest: '/home/ubuntu/Documents/inputs/1_100/107321/rest/107321_3T_rfMRI_REST1_LR.nii.gz'
+-
+    subject_id: '107321'
+    unique_id: 'rest2RL'
+    anat: '/home/ubuntu/Documents/inputs/1_100/107321/anat/107321_3T_T1w_MPR1.nii.gz'
+    rest:
+        rest_1_rest: '/home/ubuntu/Documents/inputs/1_100/107321/rest/107321_3T_rfMRI_REST2_RL.nii.gz'
+-
+    subject_id: '107321'
+    unique_id: 'rest2LR'
+    anat: '/home/ubuntu/Documents/inputs/1_100/107321/anat/107321_3T_T1w_MPR1.nii.gz'
+    rest:
+        rest_1_rest: '/home/ubuntu/Documents/inputs/1_100/107321/rest/107321_3T_rfMRI_REST2_LR.nii.gz'
+-
+    subject_id: '135528'
+    unique_id: 'rest1RL'
+    anat: '/home/ubuntu/Documents/inputs/1_100/135528/anat/135528_3T_T1w_MPR1.nii.gz'
+    rest:
+        rest_1_rest: '/home/ubuntu/Documents/inputs/1_100/135528/rest/135528_3T_rfMRI_REST1_RL.nii.gz'
+-
+    subject_id: '135528'
+    unique_id: 'rest1LR'
+    anat: '/home/ubuntu/Documents/inputs/1_100/135528/anat/135528_3T_T1w_MPR1.nii.gz'
+    rest:
+        rest_1_rest: '/home/ubuntu/Documents/inputs/1_100/135528/rest/135528_3T_rfMRI_REST1_LR.nii.gz'
+-
+    subject_id: '135528'
+    unique_id: 'rest2RL'
+    anat: '/home/ubuntu/Documents/inputs/1_100/135528/anat/135528_3T_T1w_MPR1.nii.gz'
+    rest:
+        rest_1_rest: '/home/ubuntu/Documents/inputs/1_100/135528/rest/135528_3T_rfMRI_REST2_RL.nii.gz'
+-
+    subject_id: '135528'
+    unique_id: 'rest2LR'
+    anat: '/home/ubuntu/Documents/inputs/1_100/135528/anat/135528_3T_T1w_MPR1.nii.gz'
+    rest:
+        rest_1_rest: '/home/ubuntu/Documents/inputs/1_100/135528/rest/135528_3T_rfMRI_REST2_LR.nii.gz'
+-
+    subject_id: '134324'
+    unique_id: 'rest1RL'
+    anat: '/home/ubuntu/Documents/inputs/1_100/134324/anat/134324_3T_T1w_MPR1.nii.gz'
+    rest:
+        rest_1_rest: '/home/ubuntu/Documents/inputs/1_100/134324/rest/134324_3T_rfMRI_REST1_RL.nii.gz'
+-
+    subject_id: '134324'
+    unique_id: 'rest1LR'
+    anat: '/home/ubuntu/Documents/inputs/1_100/134324/anat/134324_3T_T1w_MPR1.nii.gz'
+    rest:
+        rest_1_rest: '/home/ubuntu/Documents/inputs/1_100/134324/rest/134324_3T_rfMRI_REST1_LR.nii.gz'
+-
+    subject_id: '134324'
+    unique_id: 'rest2RL'
+    anat: '/home/ubuntu/Documents/inputs/1_100/134324/anat/134324_3T_T1w_MPR1.nii.gz'
+    rest:
+        rest_1_rest: '/home/ubuntu/Documents/inputs/1_100/134324/rest/134324_3T_rfMRI_REST2_RL.nii.gz'
+-
+    subject_id: '134324'
+    unique_id: 'rest2LR'
+    anat: '/home/ubuntu/Documents/inputs/1_100/134324/anat/134324_3T_T1w_MPR1.nii.gz'
+    rest:
+        rest_1_rest: '/home/ubuntu/Documents/inputs/1_100/134324/rest/134324_3T_rfMRI_REST2_LR.nii.gz'
+-
+    subject_id: '104820'
+    unique_id: 'rest1RL'
+    anat: '/home/ubuntu/Documents/inputs/1_100/104820/anat/104820_3T_T1w_MPR1.nii.gz'
+    rest:
+        rest_1_rest: '/home/ubuntu/Documents/inputs/1_100/104820/rest/104820_3T_rfMRI_REST1_RL.nii.gz'
+-
+    subject_id: '104820'
+    unique_id: 'rest1LR'
+    anat: '/home/ubuntu/Documents/inputs/1_100/104820/anat/104820_3T_T1w_MPR1.nii.gz'
+    rest:
+        rest_1_rest: '/home/ubuntu/Documents/inputs/1_100/104820/rest/104820_3T_rfMRI_REST1_LR.nii.gz'
+-
+    subject_id: '104820'
+    unique_id: 'rest2RL'
+    anat: '/home/ubuntu/Documents/inputs/1_100/104820/anat/104820_3T_T1w_MPR1.nii.gz'
+    rest:
+        rest_1_rest: '/home/ubuntu/Documents/inputs/1_100/104820/rest/104820_3T_rfMRI_REST2_RL.nii.gz'
+-
+    subject_id: '104820'
+    unique_id: 'rest2LR'
+    anat: '/home/ubuntu/Documents/inputs/1_100/104820/anat/104820_3T_T1w_MPR1.nii.gz'
+    rest:
+        rest_1_rest: '/home/ubuntu/Documents/inputs/1_100/104820/rest/104820_3T_rfMRI_REST2_LR.nii.gz'
+-
+    subject_id: '126325'
+    unique_id: 'rest1RL'
+    anat: '/home/ubuntu/Documents/inputs/1_100/126325/anat/126325_3T_T1w_MPR1.nii.gz'
+    rest:
+        rest_1_rest: '/home/ubuntu/Documents/inputs/1_100/126325/rest/126325_3T_rfMRI_REST1_RL.nii.gz'
+-
+    subject_id: '126325'
+    unique_id: 'rest1LR'
+    anat: '/home/ubuntu/Documents/inputs/1_100/126325/anat/126325_3T_T1w_MPR1.nii.gz'
+    rest:
+        rest_1_rest: '/home/ubuntu/Documents/inputs/1_100/126325/rest/126325_3T_rfMRI_REST1_LR.nii.gz'
+-
+    subject_id: '126325'
+    unique_id: 'rest2RL'
+    anat: '/home/ubuntu/Documents/inputs/1_100/126325/anat/126325_3T_T1w_MPR1.nii.gz'
+    rest:
+        rest_1_rest: '/home/ubuntu/Documents/inputs/1_100/126325/rest/126325_3T_rfMRI_REST2_RL.nii.gz'
+-
+    subject_id: '126325'
+    unique_id: 'rest2LR'
+    anat: '/home/ubuntu/Documents/inputs/1_100/126325/anat/126325_3T_T1w_MPR1.nii.gz'
+    rest:
+        rest_1_rest: '/home/ubuntu/Documents/inputs/1_100/126325/rest/126325_3T_rfMRI_REST2_LR.nii.gz'
+-
+    subject_id: '118932'
+    unique_id: 'rest1RL'
+    anat: '/home/ubuntu/Documents/inputs/1_100/118932/anat/118932_3T_T1w_MPR1.nii.gz'
+    rest:
+        rest_1_rest: '/home/ubuntu/Documents/inputs/1_100/118932/rest/118932_3T_rfMRI_REST1_RL.nii.gz'
+-
+    subject_id: '118932'
+    unique_id: 'rest1LR'
+    anat: '/home/ubuntu/Documents/inputs/1_100/118932/anat/118932_3T_T1w_MPR1.nii.gz'
+    rest:
+        rest_1_rest: '/home/ubuntu/Documents/inputs/1_100/118932/rest/118932_3T_rfMRI_REST1_LR.nii.gz'
+-
+    subject_id: '118932'
+    unique_id: 'rest2RL'
+    anat: '/home/ubuntu/Documents/inputs/1_100/118932/anat/118932_3T_T1w_MPR1.nii.gz'
+    rest:
+        rest_1_rest: '/home/ubuntu/Documents/inputs/1_100/118932/rest/118932_3T_rfMRI_REST2_RL.nii.gz'
+-
+    subject_id: '118932'
+    unique_id: 'rest2LR'
+    anat: '/home/ubuntu/Documents/inputs/1_100/118932/anat/118932_3T_T1w_MPR1.nii.gz'
+    rest:
+        rest_1_rest: '/home/ubuntu/Documents/inputs/1_100/118932/rest/118932_3T_rfMRI_REST2_LR.nii.gz'

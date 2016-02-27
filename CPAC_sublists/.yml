@@ -1,0 +1,24 @@
+-
+    subject_id: '1_100/'
+    unique_id: 'rest1RL'
+    anat: '/home/ubuntu/Documents/inputs/1_100/1_100//anat/1_100/_3T_T1w_MPR1.nii.gz'
+    rest:
+        rest_1_rest: '=/home/ubuntu/Documents/inputs/1_100/1_100//rest/1_100/_3T_rfMRI_REST1_RL.nii.gz'
+-
+    subject_id: '1_100/'
+    unique_id: 'rest1LR'
+    anat: '/home/ubuntu/Documents/inputs/1_100/1_100//anat/1_100/_3T_T1w_MPR1.nii.gz'
+    rest:
+        rest_1_rest: '=/home/ubuntu/Documents/inputs/1_100/1_100//rest/1_100/_3T_rfMRI_REST1_LR.nii.gz'
+-
+    subject_id: '1_100/'
+    unique_id: 'rest2RL'
+    anat: '/home/ubuntu/Documents/inputs/1_100/1_100//anat/1_100/_3T_T1w_MPR1.nii.gz'
+    rest:
+        rest_1_rest: '=/home/ubuntu/Documents/inputs/1_100/1_100//rest/1_100/_3T_rfMRI_REST2_RL.nii.gz'
+-
+    subject_id: '1_100/'
+    unique_id: 'rest2LR'
+    anat: '/home/ubuntu/Documents/inputs/1_100/1_100//anat/1_100/_3T_T1w_MPR1.nii.gz'
+    rest:
+        rest_1_rest: '=/home/ubuntu/Documents/inputs/1_100/1_100//rest/1_100/_3T_rfMRI_REST2_LR.nii.gz'
