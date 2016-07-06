@@ -15,7 +15,7 @@ resourceManager :  SGE
 
 # SGE Parallel Environment to use when running CPAC.
 # Only applies when you are running on a grid or compute cluster using SGE.
-parallelEnvironment :  mpi_smp
+parallelEnvironment :  cpac
 
 
 # SGE Queue to use when running CPAC.
@@ -25,33 +25,33 @@ queue :  all.q
 
 # Number of cores (on a single machine) or slots on a node (cluster/grid) per subject. Slots are cores on a cluster/grid node.
 # IMPORTANT: 'Number of Cores Per Subject' multiplied by 'Number of Subjects to Run Simultaneously' multiplied by 'Number of Cores for Anatomical Registration (ANTS only)' must not be greater than the total number of cores.
-numCoresPerSubject :  10
+numCoresPerSubject :  16
 
 
 # This number depends on computing resources.
 # IMPORTANT: 'Number of Cores Per Subject' multiplied by 'Number of Subjects to Run Simultaneously' multiplied by 'Number of Cores for Anatomical Registration (ANTS only)' must not be greater than the total number of cores.
-numSubjectsAtOnce :  2
+numSubjectsAtOnce :  1
 
 
 # This number depends on computing resources.
 # IMPORTANT: 'Number of Cores Per Subject' multiplied by 'Number of Subjects to Run Simultaneously' multiplied by 'Number of Cores for Anatomical Registration (ANTS only)' must not be greater than the total number of cores.
-num_ants_threads :  8
+num_ants_threads :  1
 
 
 # Name for this pipeline configuration - useful for identification.
-pipelineName :  abide_run
+pipelineName :  HCPtest
 
 
 # Directory where CPAC should store temporary and intermediate files.
-workingDirectory :  /home/eric/Documents/data/working
+workingDirectory :  /home/ubuntu/Documents/working
 
 
 # Directory where CPAC should write crash logs.
-crashLogDirectory :  /home/eric/Documents/data/abide_crashes
+crashLogDirectory :  /home/ubuntu/Documents/crash
 
 
 # Directory where CPAC should place processed data.
-outputDirectory :  /home/eric/Documents/data/output
+outputDirectory :  /home/ubuntu/Documents/outputs
 
 
 # Create a user-friendly, well organized version of the output directory.
@@ -60,12 +60,12 @@ runSymbolicLinks :  [1]
 
 
 # Generate quality control pages containing preprocessing and derivative outputs.
-generateQualityControlImages :  [0]
+generateQualityControlImages :  [1]
 
 
 # Deletes the contents of the Working Directory after running.
 # This saves disk space, but any additional preprocessing or analysis will have to be completely re-run.
-removeWorkingDir :  True
+removeWorkingDir :  False
 
 
 # Uses the contents of the Working Directory to regenerate all outputs and their symbolic links.
@@ -102,7 +102,7 @@ functionalMasking :  ['3dAutoMask']
 
 
 # Decides format of outputs. Off will produce non-z-scored outputs, On will produce z-scores of outputs, and On/Off will produce both.
-runZScoring :  [0]
+runZScoring :  [1]
 
 
 # Register anatomical images to a template.
@@ -111,7 +111,7 @@ runRegistrationPreprocessing :  [1]
 
 # The resolution to which anatomical images should be transformed during registration.
 # This is the resolution at which processed anatomical files will be output.
-resolution_for_anat :  2mm
+resolution_for_anat :  1mm
 
 
 # Template to be used during registration.
@@ -135,11 +135,11 @@ fnirtConfig :  T1_2_MNI152_2mm
 
 # Configuration file to be used by FSL to set FNIRT parameters.
 # It is not necessary to change this path unless you intend to use custom FNIRT parameters or a non-standard template.
-ref_mask :  /usr/share/fsl/5.0/data/standard/MNI152_T1_${resolution_for_anat}_brain_mask_symmetric_dil.nii.gz
+ref_mask :  /usr/share/fsl/5.0/data/standard/MNI152_T1_${resolution_for_anat}_brain_mask_dil.nii.gz
 
 
 # Register skull-on anatomical image to a template.
-regWithSkull :  [1]
+regWithSkull :  [0]
 
 
 # Automatically segment anatomical images into white matter, gray matter, and CSF based on prior probability maps.
@@ -232,7 +232,7 @@ runRegisterFuncToMNI :  [1]
 
 
 # The resolution (in mm) to which functional images are transformed during registration
-resolution_for_func :  3mm
+resolution_for_func :  2mm
 
 
 # Standard FSL Skull Stripped Template. Used as a reference image for functional registration
@@ -253,7 +253,7 @@ runNuisance :  [1]
 
 
 # Standard Lateral Ventricles Binary Mask
-lateral_ventricles_mask :  /usr/share/fsl/data/standard/HarvardOxford-lateral-ventricles-thr25-2mm.nii.gz
+lateral_ventricles_mask :  /usr/share/fsl/5.0/data/atlases/HarvardOxford/HarvardOxford-lateral-ventricles-thr25-2mm.nii.gz
 
 
 # Select which nuisance signal corrections to apply:
@@ -267,15 +267,16 @@ lateral_ventricles_mask :  /usr/share/fsl/data/standard/HarvardOxford-lateral-ve
 # linear = Linear Trend
 # quadratic = Quadratic Trend
 Corrections :
-#  -  compcor :  1
-#     wm :  0
-#     csf :  0
-#     global :  0
-#     pc1 :  0
-#     motion :  1
-#     linear :  1
-#     quadratic :  1
-#     gm :  0
+  -  compcor :  1
+     wm :  0
+     csf :  0
+     global :  0
+     pc1 :  0
+     motion :  1
+     linear :  1
+     quadratic :  1
+     gm :  0
+
 
 # Number of Principle Components to calculate when running CompCor. We recommend 5 or 6.
 nComponents : [5]
@@ -294,14 +295,14 @@ runFrequencyFiltering :  [0]
 
 
 # Define one or more band-pass filters by clicking the + button.
-nuisanceBandpassFreq : [[0.01, 0.1]]
+nuisanceBandpassFreq : []
 
 
 # Use the Friston 24-Parameter Model during volume realignment.
 # If this option is turned off, only 6 parameters will be used.
 # These parameters will also be output as a spreadsheet.
-#runFristonModel :  [1]
-runFristonModel : [0]
+runFristonModel :  [1]
+
 
 # Calculate motion statistics including Framewise Displacement (FD) and DVARS.
 # Required to run Scrubbing.
@@ -315,7 +316,7 @@ runScrubbing :  [0]
 
 # Specify the maximum acceptable Framewise Displacement (FD) in millimeters.
 # Any volume exhibiting FD greater than this value will be removed.
-scrubbingThreshold : [0.5]
+scrubbingThreshold : [0.2]
 
 
 # Number of volumes to remove preceeding a volume with excessive FD.
@@ -355,7 +356,7 @@ runROITimeseries :  [1]
 # Each line in this file should be the path to a NIfTI file containing one or more ROIs.
 # If you only wish to extract time series for newly defined spherical seed ROIs, set this field to None.
 # Note that all ROI masks values are converted to integers within C-PAC.
-roiSpecificationFile :  /home/eric/design_team/f2g/settings/abide_rois.txt
+roiSpecificationFile :  /home/ubuntu/f2g/settings/abide_rois.txt
 
 
 # Full path to a text file containing a list ROI files.
@@ -366,17 +367,17 @@ roiSpecificationFileForSCA :  None
 
 
 # By default, extracted time series are written as both a text file and a 1D file. Additional output formats are as a .csv spreadsheet or a Numpy array.
-roiTSOutputs :  [True, True]
+roiTSOutputs :  [False, True]
 
 
 # Extract the time series of all voxels within one or more ROIs/seeds.
-runVoxelTimeseries :  [0]
+runVoxelTimeseries :  [1]
 
 
 # Full path to a text file containing a list ROI files.
 # Each line in this file should be the path to a NIfTI file containing a single ROI.
 # If you only wish to extract time series for newly defined spherical seed ROIs, set this field to None.
-maskSpecificationFile :  None
+maskSpecificationFile :  /home/ubuntu/f2g/settings/abide_masks.txt
 
 
 # Full path to a text file containing a list ROI files.
@@ -386,7 +387,7 @@ maskSpecificationFileForSCA :  None
 
 
 # By default, extracted time series are written as both a text file and a 1D file. Additional output formats are as a .csv spreadsheet or a Numpy array.
-voxelTSOutputs :  [False, False]
+voxelTSOutputs :  [False, True]
 
 
 # Register timeseries data to a surface model built by FreeSurfer.
@@ -418,11 +419,11 @@ runSpatialRegression :  [0]
 
 # Full path to a text file containing a list spatial maps.
 # Each line in this file should be the path to a 4D NIfTI file containing one spatial map per volume.
-spatialPatternMaps :  /home/eric/f2g/settings/abide_spatial_maps.txt
+spatialPatternMaps :  
 
 
 # Demean spatial maps before running spatial regression.
-spatialDemean :  False
+spatialDemean :  True
 
 
 # For each extracted ROI Average and/or ROI Voxelwise time series, CPAC will generate a whole-brain correlation map.
@@ -495,7 +496,7 @@ runReHo :  [0]
 # 7 (Faces)
 # 19 (Faces + Edges)
 # 27 (Faces + Edges + Corners)
-clusterSize :  27
+clusterSize :  7
 
 
 # Calculate Degree, Eigenvector Centrality, or Functional Connectivity Density.
@@ -506,7 +507,7 @@ runNetworkCentrality :  [0]
 # Each line of this file should contain the path to an ROI or mask.
 # If a mask is specified, centrality will be calculated for all voxels within the mask.
 # If a list of ROIs is specified, each ROI will be treated as a node, and centrality will be calculated for each node.
-templateSpecificationFile : 
+templateSpecificationFile :  
 
 
 # Enable/Disable degree centrality by selecting the connectivity weights
@@ -551,18 +552,18 @@ lfcdCorrelationThresholdOption :  0
 # P-value for Significance Threshold
 # Sparsity value for Sparsity Threshold
 # Pearson's r value for Correlation Threshold
-lfcdCorrelationThreshold :  0.6
+lfcdCorrelationThreshold :  0.001
 
 
 # Maximum amount of RAM (in GB) to be used when calculating Degree Centrality.
 # Calculating Eigenvector Centrality will require additional memory based on the size of the mask or number of ROI nodes.
-memoryAllocatedForDegreeCentrality :  8.0
+memoryAllocatedForDegreeCentrality :  2.0
 
 
 # Full Width at Half Maximum of the Gaussian kernel used during spatial smoothing.
 # Can be a single value or multiple values separated by commas.
 # Note that spatial smoothing is run as the last step in the individual-level analysis pipeline, such that all derivatives are output both smoothed and unsmoothed.
-fwhm : [6]
+fwhm : [4]
 
 
 # Run Bootstrap Analysis of Stable Clusters
