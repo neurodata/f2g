@@ -1,0 +1,106 @@
+    1  ls
+    2  git clone https://github.com/openconnectome/f2g_ami.git
+    3  ls
+    4  cd f2g_ami/
+    5  ls
+    6  cd ..
+    7  ls
+    8  rm -rf f2g_ami/
+    9  ls
+   10  git clone https://github.com/neurodata/f2g.git
+   11  s3cmd
+   12  sudo apt-get install s3cmd
+   13  s3cmd
+   14  s3cmd --configure
+   15  ls
+   16  free -m
+   17  free -m | grep cache: 
+   18  free -m | grep cache: | sed 's/\-\/\+ buffers\/cache://g'
+   19  free -m | grep cache: | sed 's/-\/+ buffers\/cache://g'
+   20  ls
+   21  cd f2g/
+   22  ls
+   23  mkdir mem_tracking
+   24  ls
+   25  cd mem_tracking/
+   26  ls
+   27  vim mem_log.sh
+   28  free -m | grep cache: | sed 's/-\/+ buffers\/cache://g'
+   29  vim mem_log.sh
+   30  ls
+   31  vim mem_log.sh
+   32  ls
+   33  vim mem_log.sh 
+   34  ls
+   35  cd ..
+   36  ls
+   37  cd ..
+   38  ls
+   39  cd Documents/
+   40  ls
+   41  s3cmd ls
+   42  s3cmd ls s3://hcp-openaccess
+   43  s3cmd ls s3://hcp-openaccess/HCP_900/
+   44  s3cmd ls s3://hcp-openaccess/HCP_900/996782/
+   45  s3cmd ls s3://hcp-openaccess/HCP_900/996782/unprocessed
+   46  s3cmd ls s3://hcp-openaccess/HCP_900/996782/unprocessed/
+   47  s3cmd ls s3://hcp-openaccess/HCP_900/996782/unprocessed/3T/
+   48  s3cmd ls s3://hcp-openaccess/HCP_900/996782/unprocessed/3T/T1w_MPR1/
+   49  s3cmd get s3://hcp-openaccess/HCP_900/996782/unprocessed/3T/T1w_MPR1/996782_3T_T1w_MPR1.nii.gz ./
+   50  ls
+   51  s3cmd ls s3://hcp-openaccess/HCP_900/996782/unprocessed/3T/rfMRI_REST1_LR/
+   52  s3cmd get s3://hcp-openaccess/HCP_900/996782/unprocessed/3T/rfMRI_REST1_LR/996782_3T_rfMRI_REST1_LR.nii.gz ./
+   53  ls
+   54  . ~/f2g/setup_ami_cpac.sh
+   55  ls
+   56  mv *.nii.gz inputs
+   57  ls
+   58  cd ..
+   59  ls
+   60  cd f2g/
+   61  ls
+   62  vim CPAC_pipes/
+   63  ls
+   64  vim CPAC_sublists/sublist.yml 
+   65  ls
+   66  vim CPAC_sublists/sublist_test.yml
+   67  ls
+   68  cd mem_tracking/
+   69  ls
+   70  nohup bash mem_log.sh > mem_tracker.txt &
+   71  ls
+   72  cd ..
+   73  ls
+   74  cd CPAC_cli/
+   75  ls
+   76  nohup python CPAC_cli.py -s ../CPAC_sublists/sublist_test.yml -c ../CPAC_pipes/HCP_pipe.yml -n name &
+   77  ls
+   78  ps -ef
+   79  ls
+   80  python CPAC_cli.py -s ../CPAC_sublists/sublist_test.yml -c ../CPAC_pipes/HCP_pipe.yml -n name
+   81  ls
+   82  cat ../settings/abide_masks.txt
+   83  ls
+   84  cd ..
+   85  ls
+   86  cd atlases/
+   87  ls
+   88  cd ..
+   89  ls
+   90  mkdir masks
+   91  ls
+   92  cd masks/
+   93  ls
+   94  scp ebridge2@foo.cis.jhu.edu:/cis/home/ebridge2/MNI152_T1_1mm_brain_mask.nii.gz ./
+   95  ls
+   96  cd ..
+   97  ls
+   98  pwd
+   99  vim settings/abide_masks.txt
+  100  ls
+  101  cd CPAC_cli/
+  102  ls
+  103  nohup python CPAC_cli.py -s ../CPAC_sublists/sublist_test.yml -c ../CPAC_pipes/HCP_pipe.yml -n name &
+  104  ls
+  105  history 
+  106  history > testcpac.txt
