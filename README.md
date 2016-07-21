@@ -36,6 +36,9 @@ cat dataset_sublists.yml
 cd ../CPAC_cli	  
   	
 4) run the subjects.  
+
+nohup python CPAC_cli.py -s ../CPAC_sublists/hcp_sublist.yml -p ../CPAC_pipes/best_pipeline.yml -n fsl > log.txt &
+
 nohup python CPAC_cli.py -s ../CPAC_sublists/dataset_sublists.yml -c ../CPAC_pipes/pipeline_config_abide_run.yml -n name &  
 
 - to delete not useful files midway -  
