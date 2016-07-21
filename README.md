@@ -9,6 +9,9 @@ git clone https://github.com/openconnectome/f2g_ami.git
 
 2) run the setup script.  
 . ~/f2g_ami/setup_ami_cpac.sh  
+
+- HCP substep: get the subjects  
+scp eric@braincloud1.cs.jhu.edu:/home/eric/hcpaa /home/ubuntu/f2g_ami/CPAC_sublists/
 			
 - substep: make sure you have the subjects in the inputs directory -  
 scp -r eric@cortex.cs.jhu.edu:/mnt/ssd1/public/Data/$dataset/inputs/ /home/ubuntu/Documents/  
@@ -21,6 +24,8 @@ find /home/ubuntu/Documents/inputs/ -maxdepth 2 -name "\*session\*" -type d >   
 cd /home/ubuntu/f2g_ami/CPAC_sublists  
   
 ./make_sublist.sh dataset_sublists.txt  
+
+./get_hcp.sh hcpaa
   
 -test and make sure things are there-  
 cat dataset_sublists.yml  
