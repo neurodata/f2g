@@ -7,7 +7,7 @@ echo "ctxpath=\"/mnt/ssd1/public/Data/\"; export ctxpath" >> .bashrc
 sudo apt-get install s3cmd
 scp eric@braincloud1.cs.jhu.edu:/home/eric/.s3cfg /home/ubuntu/
 1) clone the f2g repo in ~/  
-git clone https://github.com/openconnectome/f2g_ami.git  
+git clone https://github.com/openconnectome/f2g.git  
 
 2) run the setup script.  
 . ~/f2g_ami/setup_ami_cpac.sh  
@@ -23,7 +23,7 @@ find /home/ubuntu/Documents/inputs/ -maxdepth 2 -name "\*session\*" -type d >   
   
 4) make the subject lists for cpac.  
 -step btwn-  
-cd /home/ubuntu/f2g_ami/CPAC_sublists  
+cd /home/ubuntu/f2g/CPAC_sublists  
   
 ./make_sublist.sh dataset_sublists.txt  
 
