@@ -25,12 +25,12 @@ queue :  all.q
 
 # Number of cores (on a single machine) or slots on a node (cluster/grid) per subject. Slots are cores on a cluster/grid node.
 # IMPORTANT: 'Number of Cores Per Subject' multiplied by 'Number of Subjects to Run Simultaneously' multiplied by 'Number of Cores for Anatomical Registration (ANTS only)' must not be greater than the total number of cores.
-numCoresPerSubject :  16
+numCoresPerSubject :  8
 
 
 # This number depends on computing resources.
 # IMPORTANT: 'Number of Cores Per Subject' multiplied by 'Number of Subjects to Run Simultaneously' multiplied by 'Number of Cores for Anatomical Registration (ANTS only)' must not be greater than the total number of cores.
-numSubjectsAtOnce :  1
+numSubjectsAtOnce :  5
 
 
 # This number depends on computing resources.
@@ -130,7 +130,7 @@ regOption :  ['FSL']
 
 # Configuration file to be used by FSL to set FNIRT parameters.
 # It is not necessary to change this path unless you intend to use custom FNIRT parameters or a non-standard template.
-fnirtConfig :  T1_2_MNI152_2mm
+fnirtConfig :  T1_2_MNI152_1mm
 
 
 # Configuration file to be used by FSL to set FNIRT parameters.
@@ -232,7 +232,7 @@ runRegisterFuncToMNI :  [1]
 
 
 # The resolution (in mm) to which functional images are transformed during registration
-resolution_for_func :  2mm
+resolution_for_func :  1mm
 
 
 # Standard FSL Skull Stripped Template. Used as a reference image for functional registration
