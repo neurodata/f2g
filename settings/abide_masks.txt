@@ -1,1 +1,1 @@
-/home/ubuntu/f2g/masks/MNI152_T1_1mm_brain_mask.nii.gz
+/home/ubuntu/f2g_ami/masks/MNI152_T1_1mm_brain_mask.nii.gz
