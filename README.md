@@ -4,8 +4,8 @@ echo "dataset=\"datasetname\"; export dataset" >> .bashrc
 echo "ctxpath=\"/mnt/ssd1/public/Data/\"; export ctxpath" >> .bashrc  
 . ~/.bashrc  
 
-sudo apt-get install s3cmd
-scp eric@braincloud1.cs.jhu.edu:/home/eric/.s3cfg /home/ubuntu/
+sudo apt-get install s3cmd  
+scp eric@braincloud1.cs.jhu.edu:/home/eric/.s3cfg /home/ubuntu/  
 1) clone the f2g repo in ~/  
 git clone https://github.com/neurodata/f2g.git  
 
