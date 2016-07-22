@@ -30,7 +30,7 @@ numCoresPerSubject :  8
 
 # This number depends on computing resources.
 # IMPORTANT: 'Number of Cores Per Subject' multiplied by 'Number of Subjects to Run Simultaneously' multiplied by 'Number of Cores for Anatomical Registration (ANTS only)' must not be greater than the total number of cores.
-numSubjectsAtOnce :  5
+numSubjectsAtOnce :  4
 
 
 # This number depends on computing resources.
@@ -349,7 +349,7 @@ useSeedInAnalysis :  []
 
 
 # Extract the average time series of one or more ROIs/seeds. Must be enabled if you wish to run Seed-based Correlation Analysis.
-runROITimeseries :  [1]
+runROITimeseries :  [0]
 
 
 # Full path to a text file containing a list ROI files.
