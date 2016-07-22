@@ -10,7 +10,7 @@ scp eric@braincloud1.cs.jhu.edu:/home/eric/.s3cfg /home/ubuntu/
 git clone https://github.com/openconnectome/f2g.git  
 
 2) run the setup script.  
-. ~/f2g_ami/setup_ami_cpac.sh  
+. ~/f2g/setup_ami_cpac.sh  
 
 - HCP substep: get the subjects  
 scp eric@braincloud1.cs.jhu.edu:/home/eric/hcpaa /home/ubuntu/f2g_ami/CPAC_sublists/
@@ -19,7 +19,7 @@ scp eric@braincloud1.cs.jhu.edu:/home/eric/hcpaa /home/ubuntu/f2g_ami/CPAC_subli
 scp -r eric@cortex.cs.jhu.edu:/mnt/ssd1/public/Data/$dataset/inputs/ /home/ubuntu/Documents/  
 
 3) find the sesssions, and place in appropriate directory."  
-find /home/ubuntu/Documents/inputs/ -maxdepth 2 -name "\*session\*" -type d >   /home/ubuntu/f2g_ami/CPAC_sublists/dataset_sublists.txt  
+find /home/ubuntu/Documents/inputs/ -maxdepth 2 -name "\*session\*" -type d >   /home/ubuntu/f2g/CPAC_sublists/dataset_sublists.txt  
   
 4) make the subject lists for cpac.  
 -step btwn-  
