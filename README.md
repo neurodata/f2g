@@ -7,13 +7,13 @@ echo "ctxpath=\"/mnt/ssd1/public/Data/\"; export ctxpath" >> .bashrc
 sudo apt-get install s3cmd
 scp eric@braincloud1.cs.jhu.edu:/home/eric/.s3cfg /home/ubuntu/
 1) clone the f2g repo in ~/  
-git clone https://github.com/openconnectome/f2g.git  
+git clone https://github.com/neurodata/f2g.git  
 
 2) run the setup script.  
 . ~/f2g/setup_ami_cpac.sh  
 
 - HCP substep: get the subjects  
-scp eric@braincloud1.cs.jhu.edu:/home/eric/hcpaa /home/ubuntu/f2g_ami/CPAC_sublists/
+scp eric@braincloud1.cs.jhu.edu:/home/eric/hcpaa /home/ubuntu/f2g/CPAC_sublists/
 			
 - substep: make sure you have the subjects in the inputs directory -  
 scp -r eric@cortex.cs.jhu.edu:/mnt/ssd1/public/Data/$dataset/inputs/ /home/ubuntu/Documents/  
