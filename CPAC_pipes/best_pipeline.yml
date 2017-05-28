@@ -25,12 +25,12 @@ queue :  all.q
 
 # Number of cores (on a single machine) or slots on a node (cluster/grid) per subject. Slots are cores on a cluster/grid node.
 # IMPORTANT: 'Number of Cores Per Subject' multiplied by 'Number of Subjects to Run Simultaneously' multiplied by 'Number of Cores for Anatomical Registration (ANTS only)' must not be greater than the total number of cores.
-numCoresPerSubject :  8
+numCoresPerSubject :  1
 
 
 # This number depends on computing resources.
 # IMPORTANT: 'Number of Cores Per Subject' multiplied by 'Number of Subjects to Run Simultaneously' multiplied by 'Number of Cores for Anatomical Registration (ANTS only)' must not be greater than the total number of cores.
-numSubjectsAtOnce :  4
+numSubjectsAtOnce :  1
 
 
 # This number depends on computing resources.
@@ -349,7 +349,7 @@ useSeedInAnalysis :  []
 
 
 # Extract the average time series of one or more ROIs/seeds. Must be enabled if you wish to run Seed-based Correlation Analysis.
-runROITimeseries :  [0]
+runROITimeseries :  [1]
 
 
 # Full path to a text file containing a list ROI files.
