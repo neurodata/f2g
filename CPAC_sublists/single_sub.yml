@@ -1,0 +1,6 @@
+-
+    subject_id: 'sub-0025864'
+    unique_id: 'ses-1'
+    anat: '/home/ubuntu/Documents/single_sub/sub-0025864/ses-1/anat/sub-0025864_ses-1_T1w.nii.gz'
+    rest:
+        rest_1_rest: '/home/ubuntu/Documents/single_sub/sub-0025864/ses-1/func/sub-0025864_ses-1_bold.nii.gz'
