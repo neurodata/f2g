@@ -14,7 +14,7 @@ cpukey=$!
 ./disklog.sh $1 > ${1}/disk.txt &
 diskkey=$!
 
-python CPAC_cli.py -s ../CPAC_sublists/hcp_sublist.yml -c ../CPAC_pipes/best_pipeline.yml -n fsl
+python CPAC_cli.py -s ../CPAC_sublists/single_sub.yml -c ../CPAC_pipes/best_pipeline.yml -n fsl
 
 sleep 30
 
